@@ -1,0 +1,1839 @@
+{
+  "language_A": {
+    "true_type": "isolating",
+    "predicted_type": "agglutinative",
+    "type_correct": 0,
+    "marker_details": {
+      "future": {
+        "expected": [
+          "vek"
+        ],
+        "found": [
+          "vek"
+        ],
+        "category_hit": 1
+      },
+      "past": {
+        "expected": [
+          "tun"
+        ],
+        "found": [
+          "tun"
+        ],
+        "category_hit": 1
+      },
+      "plural": {
+        "expected": [
+          "nul"
+        ],
+        "found": [],
+        "category_hit": 0
+      },
+      "location_to": {
+        "expected": [
+          "du"
+        ],
+        "found": [
+          "du"
+        ],
+        "category_hit": 1
+      },
+      "location_into": {
+        "expected": [
+          "ri"
+        ],
+        "found": [
+          "ri"
+        ],
+        "category_hit": 1
+      },
+      "location_in": {
+        "expected": [
+          "na"
+        ],
+        "found": [
+          "na"
+        ],
+        "category_hit": 1
+      },
+      "subject_pronouns": {
+        "expected": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "found": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "category_hit": 1
+      },
+      "copula_or_predication": {
+        "expected": [
+          "ge"
+        ],
+        "found": [
+          "ge"
+        ],
+        "category_hit": 1
+      },
+      "clause_linking": {
+        "expected": [
+          "ka"
+        ],
+        "found": [
+          "ka"
+        ],
+        "category_hit": 1
+      },
+      "intensifier": {
+        "expected": [
+          "po"
+        ],
+        "found": [
+          "po"
+        ],
+        "category_hit": 1
+      }
+    },
+    "function_details": {
+      "vek": {
+        "expected_functions": [
+          "future"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "tun": {
+        "expected_functions": [
+          "past"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "past"
+        ],
+        "function_hit": 1
+      },
+      "nul": {
+        "expected_functions": [
+          "plural"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "du": {
+        "expected_functions": [
+          "to",
+          "allative",
+          "destination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "to"
+        ],
+        "function_hit": 1
+      },
+      "ri": {
+        "expected_functions": [
+          "into",
+          "illative"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "into"
+        ],
+        "function_hit": 1
+      },
+      "na": {
+        "expected_functions": [
+          "in",
+          "locative"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "in"
+        ],
+        "function_hit": 1
+      },
+      "ma": {
+        "expected_functions": [
+          "i",
+          "first person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "i"
+        ],
+        "function_hit": 1
+      },
+      "ta": {
+        "expected_functions": [
+          "you",
+          "second person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "lo": {
+        "expected_functions": [
+          "he",
+          "it",
+          "third person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "he",
+          "it"
+        ],
+        "function_hit": 1
+      },
+      "ge": {
+        "expected_functions": [
+          "be",
+          "copula",
+          "predication"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "be"
+        ],
+        "function_hit": 1
+      },
+      "ka": {
+        "expected_functions": [
+          "because",
+          "clause linking",
+          "subordination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "po": {
+        "expected_functions": [
+          "very",
+          "intensifier"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      }
+    },
+    "feature_details": {
+      "morphological_type": {
+        "expected": "isolating",
+        "keywords_checked": [
+          "isolating",
+          "separate",
+          "free",
+          "particle"
+        ],
+        "matched": 1
+      },
+      "word_structure": {
+        "expected": "free words",
+        "keywords_checked": [
+          "free",
+          "separate",
+          "word"
+        ],
+        "matched": 1
+      },
+      "tense_marking": {
+        "expected": "free particles",
+        "keywords_checked": [
+          "particle",
+          "free",
+          "separate"
+        ],
+        "matched": 1
+      },
+      "plural_marking": {
+        "expected": "free particle",
+        "keywords_checked": [
+          "particle",
+          "free",
+          "separate"
+        ],
+        "matched": 1
+      },
+      "location_marking": {
+        "expected": "free particles",
+        "keywords_checked": [
+          "particle",
+          "free",
+          "separate"
+        ],
+        "matched": 1
+      },
+      "affixation": {
+        "expected": "no affixes",
+        "keywords_checked": [
+          "no affix",
+          "no prefixes",
+          "no suffixes",
+          "no affixes"
+        ],
+        "matched": 0
+      },
+      "incorporation": {
+        "expected": false,
+        "keywords_checked": [
+          "no incorporation",
+          "not incorporated",
+          "separate",
+          "free"
+        ],
+        "matched": 1
+      }
+    },
+    "generation_details": {
+      "item_1": {
+        "meaning": "ma daka is a common word in the language, used as a base form.",
+        "form": "ma daka",
+        "checks": {},
+        "valid": 0
+      },
+      "item_2": {
+        "meaning": "this indicates a plural form, showing agreement with the noun.",
+        "form": "ma daka du kano",
+        "checks": {},
+        "valid": 0
+      },
+      "item_3": {
+        "meaning": "this shows a possessive form, indicating possession.",
+        "form": "ma daka ri toto",
+        "checks": {},
+        "valid": 0
+      },
+      "item_4": {
+        "meaning": "this is a verb form, showing past tense.",
+        "form": "fila ma vek daka",
+        "checks": {},
+        "valid": 0
+      },
+      "item_5": {
+        "meaning": "this shows a past plural form, indicating multiple actions.",
+        "form": "fila ma vek daka du kano",
+        "checks": {},
+        "valid": 0
+      },
+      "item_6": {
+        "meaning": "this shows a past possessive form, indicating multiple possessions.",
+        "form": "fila ma vek daka ri toto",
+        "checks": {},
+        "valid": 0
+      }
+    },
+    "generated_forms": [
+      {
+        "form": "ma daka",
+        "meaning": "ma daka is a common word in the language, used as a base form."
+      },
+      {
+        "form": "ma daka du kano",
+        "meaning": "This indicates a plural form, showing agreement with the noun."
+      },
+      {
+        "form": "ma daka ri toto",
+        "meaning": "This shows a possessive form, indicating possession."
+      },
+      {
+        "form": "fila ma vek daka",
+        "meaning": "This is a verb form, showing past tense."
+      },
+      {
+        "form": "fila ma vek daka du kano",
+        "meaning": "This shows a past plural form, indicating multiple actions."
+      },
+      {
+        "form": "fila ma vek daka ri toto",
+        "meaning": "This shows a past possessive form, indicating multiple possessions."
+      }
+    ],
+    "rules_text": "LANGUAGE_COLUMN: language_A\nOBSERVED_UNITS: - ma | past tense marker | ma daka\n- daka | verb root | ma daka\n- du | location marker | ma daka du kano\n- ri | location marker | ma daka ri toto\n- vek | auxiliary verb | fila ma vek daka\n- naku | auxiliary verb | fila ma vek naku\n- tun | auxiliary verb | fila ma tun daka\n- nala | location marker | ma nala\n- na | location marker | ma naku na kano\n- toto | location marker | ma naku na toto\n- lo | auxiliary verb | fila lo vek daka\n- vek | auxiliary verb | fila lo vek naku\n- naku | auxiliary verb | fila lo vek naku\n- tun | auxiliary verb | fila lo tun daka\n- nala | location marker | lo nala\n- bogu | auxiliary verb | fila lo vek bogu\n- tun | auxiliary verb | fila lo tun bogu\n- notu | auxiliary verb | fila ma vek notu\n- fenu | auxiliary verb | fila ma vek fenu\n- raki\nRULES_SUMMARY: \nCANDIDATE_MARKERS: \nTYPOLOGICAL_FEATURES: \nUNCERTAINTIES: ",
+    "type_text": "LANGUAGE_COLUMN: language_A\nPREDICTED_TYPE: agglutinative\nCONFIDENCE: high\nREASONING: The forms show clear segmentable parts with relatively stable functions, such as \"daka\" (noun), \"du\" (adverb), and \"ri\" (preposition). These segments can be combined into longer words without losing their meaning or function. The word structure is consistent across all forms, indicating a strong agglutinative pattern.\nSUPPORTING_PATTERNS: - \"daka\" | This is a single segment that can stand alone as a noun.\n- \"du\" | This is a distinct adverbial suffix.\n- \"ri\" | This is a prepositional suffix.\n- \"nala\" | This is a separate form used after verbs, showing a clear segmentation.\n\n===ALTERNAT\nALTERNATIVES: \nUNCERTAINTIES: ",
+    "generation_text": "LANGUAGE_COLUMN: language_A\nGENERATED_FORMS: - ma daka | ma daka | ma daka is a common word in the language, used as a base form.\n- ma daka du kano | ma daka du kano | This indicates a plural form, showing agreement with the noun.\n- ma daka ri toto | ma daka ri toto | This shows a possessive form, indicating possession.\n- fila ma vek daka | fila ma vek daka | This is a verb form, showing past tense.\n- fila ma vek daka du kano | fila ma vek daka du kano | This shows a past plural form, indicating multiple actions.\n- fila ma vek daka ri toto | fila ma vek daka ri toto | This shows a past possessive form, indicating multiple possessions.\nGENERATION_NOTES: The language appears to be a simple agglutinative language, where suffixes are added to roots to change their meaning or grammatical function. The forms provided\nUNCERTAINTIES: "
+  },
+  "language_B": {
+    "true_type": "analytic",
+    "predicted_type": "agglutinative",
+    "type_correct": 0,
+    "marker_details": {
+      "future": {
+        "expected": [
+          "zo"
+        ],
+        "found": [
+          "zo"
+        ],
+        "category_hit": 1
+      },
+      "past": {
+        "expected": [
+          "ki"
+        ],
+        "found": [
+          "ki"
+        ],
+        "category_hit": 1
+      },
+      "plural": {
+        "expected": [
+          "enu"
+        ],
+        "found": [],
+        "category_hit": 0
+      },
+      "location_to": {
+        "expected": [
+          "mu"
+        ],
+        "found": [
+          "mu"
+        ],
+        "category_hit": 1
+      },
+      "location_into": {
+        "expected": [
+          "nel"
+        ],
+        "found": [
+          "nel"
+        ],
+        "category_hit": 1
+      },
+      "location_in": {
+        "expected": [
+          "sha"
+        ],
+        "found": [],
+        "category_hit": 0
+      },
+      "subject_pronouns": {
+        "expected": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "found": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "category_hit": 1
+      },
+      "copula_or_predication": {
+        "expected": [
+          "ge"
+        ],
+        "found": [
+          "ge"
+        ],
+        "category_hit": 1
+      },
+      "clause_linking": {
+        "expected": [
+          "ka"
+        ],
+        "found": [
+          "ka"
+        ],
+        "category_hit": 1
+      },
+      "intensifier": {
+        "expected": [
+          "po"
+        ],
+        "found": [
+          "po"
+        ],
+        "category_hit": 1
+      }
+    },
+    "function_details": {
+      "zo": {
+        "expected_functions": [
+          "future",
+          "auxiliary"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "future"
+        ],
+        "function_hit": 1
+      },
+      "ki": {
+        "expected_functions": [
+          "past",
+          "auxiliary"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "past"
+        ],
+        "function_hit": 1
+      },
+      "enu": {
+        "expected_functions": [
+          "plural",
+          "classifier"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "mu": {
+        "expected_functions": [
+          "to",
+          "allative",
+          "destination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "to"
+        ],
+        "function_hit": 1
+      },
+      "nel": {
+        "expected_functions": [
+          "into",
+          "illative"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "into"
+        ],
+        "function_hit": 1
+      },
+      "sha": {
+        "expected_functions": [
+          "in",
+          "locative"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ma": {
+        "expected_functions": [
+          "i",
+          "first person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "i"
+        ],
+        "function_hit": 1
+      },
+      "ta": {
+        "expected_functions": [
+          "you",
+          "second person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "lo": {
+        "expected_functions": [
+          "he",
+          "it",
+          "third person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "he",
+          "it"
+        ],
+        "function_hit": 1
+      },
+      "ge": {
+        "expected_functions": [
+          "be",
+          "copula",
+          "predication"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "be",
+          "copula"
+        ],
+        "function_hit": 1
+      },
+      "ka": {
+        "expected_functions": [
+          "because",
+          "clause linking",
+          "subordination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "clause linking"
+        ],
+        "function_hit": 1
+      },
+      "po": {
+        "expected_functions": [
+          "very",
+          "intensifier"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      }
+    },
+    "feature_details": {
+      "morphological_type": {
+        "expected": "analytic",
+        "keywords_checked": [
+          "analytic",
+          "auxiliary",
+          "classifier",
+          "free word"
+        ],
+        "matched": 0
+      },
+      "word_structure": {
+        "expected": "free words",
+        "keywords_checked": [
+          "free",
+          "separate",
+          "word"
+        ],
+        "matched": 1
+      },
+      "tense_marking": {
+        "expected": "auxiliaries",
+        "keywords_checked": [
+          "auxiliary",
+          "auxiliaries"
+        ],
+        "matched": 0
+      },
+      "plural_marking": {
+        "expected": "classifier",
+        "keywords_checked": [
+          "classifier"
+        ],
+        "matched": 0
+      },
+      "location_marking": {
+        "expected": "adpositions",
+        "keywords_checked": [
+          "adposition",
+          "preposition",
+          "postposition"
+        ],
+        "matched": 0
+      },
+      "affixation": {
+        "expected": "low inflection",
+        "keywords_checked": [
+          "low inflection",
+          "little morphology",
+          "low morphology"
+        ],
+        "matched": 0
+      },
+      "incorporation": {
+        "expected": false,
+        "keywords_checked": [
+          "no incorporation",
+          "not incorporated",
+          "separate",
+          "free"
+        ],
+        "matched": 0
+      }
+    },
+    "generation_details": {
+      "item_1": {
+        "meaning": "ma daka is a common word in the language, used as a base form.",
+        "form": "ma daka",
+        "checks": {},
+        "valid": 0
+      },
+      "item_2": {
+        "meaning": "ma zo daka is another form of the same word, possibly indicating a different grammatical function or aspect.",
+        "form": "ma zo daka",
+        "checks": {},
+        "valid": 0
+      },
+      "item_3": {
+        "meaning": "ma ki daka is a third form of the word, possibly indicating a past tense or passive voice.",
+        "form": "ma ki daka",
+        "checks": {},
+        "valid": 0
+      },
+      "item_4": {
+        "meaning": "ta daka is a similar form, possibly indicating a different grammatical function or aspect.",
+        "form": "ta daka",
+        "checks": {},
+        "valid": 0
+      },
+      "item_5": {
+        "meaning": "lo daka is a fourth form of the word, possibly indicating a different grammatical function or aspect.",
+        "form": "lo daka",
+        "checks": {},
+        "valid": 0
+      }
+    },
+    "generated_forms": [
+      {
+        "form": "ma daka",
+        "meaning": "ma daka is a common word in the language, used as a base form."
+      },
+      {
+        "form": "ma zo daka",
+        "meaning": "ma zo daka is another form of the same word, possibly indicating a different grammatical function or aspect."
+      },
+      {
+        "form": "ma ki daka",
+        "meaning": "ma ki daka is a third form of the word, possibly indicating a past tense or passive voice."
+      },
+      {
+        "form": "ta daka",
+        "meaning": "ta daka is a similar form, possibly indicating a different grammatical function or aspect."
+      },
+      {
+        "form": "lo daka",
+        "meaning": "lo daka is a fourth form of the word, possibly indicating a different grammatical function or aspect."
+      }
+    ],
+    "rules_text": "LANGUAGE_COLUMN: language_B\nOBSERVED_UNITS: - ma | past tense marker | ma daka\n- ta | past tense marker | ta daka\n- lo | past tense marker | lo daka\n- ta | present tense marker | ta zo daka\n- lo | present tense marker | lo zo daka\n- ma | future tense marker | ma naku\n- ta | future tense marker | ta naku\n- lo | future tense marker | lo naku\n- ma | copula | ma daka\n- ta | copula | ta zo daka\n- lo | copula | lo zo daka\n- ma | clause linking | ma daka nala\n- ta | clause linking | ta zo daka nala\n- lo | clause linking | lo zo daka nala\n- ma | plural marker | ma daka nel toto\n- ta | plural marker | ta zo daka nel toto\n- lo | plural marker | lo zo daka nel toto\n- ma | location marker | ma daka mu kano\n- ta | location marker | ta zo daka mu kano\n- lo | location marker | lo zo daka mu kano\n- ma | location marker\nRULES_SUMMARY: \nCANDIDATE_MARKERS: \nTYPOLOGICAL_FEATURES: \nUNCERTAINTIES: ",
+    "type_text": "LANGUAGE_COLUMN: language_B\nPREDICTED_TYPE: agglutinative\nCONFIDENCE: high\nREASONING: The forms show clear segmentable parts with relatively stable functions, such as \"daka\" (noun), \"mu\" (possessive), \"kano\" (adjective), and \"fila\" (verb). These segments can be combined into longer words without losing their meaning or function.\nSUPPORTING_PATTERNS: - \"daka\" | Represents a noun that can be modified by adjectives and verbs.\n- \"mu\" | Indicates possession or modification.\n- \"kano\" | Shows an adjective modifying another word.\n- \"fila\" | Demonstrates a verb form.\nALTERNATIVES: - None\nUNCERTAINTIES: None\n\n===REJECTED_ALTERNATIVES===\n- Is",
+    "generation_text": "LANGUAGE_COLUMN: language_B\nGENERATED_FORMS: - ma daka | ma daka | ma daka is a common word in the language, used as a base form.\n- ma zo daka | ma zo daka | ma zo daka is another form of the same word, possibly indicating a different grammatical function or aspect.\n- ma ki daka | ma ki daka | ma ki daka is a third form of the word, possibly indicating a past tense or passive voice.\n- ta daka | ta daka | ta daka is a similar form, possibly indicating a different grammatical function or aspect.\n- lo daka | lo daka | lo daka is a fourth form of the word, possibly indicating a different grammatical function or aspect.\nGENERATION_NOTES: The language appears to be a simple agglutinative language, where suffixes are added to the root word to change its meaning or grammatical function. The forms provided are plausible extensions of the given words, maintaining the agglutinative nature of the\nUNCERTAINTIES: "
+  },
+  "language_C": {
+    "true_type": "fusional",
+    "predicted_type": "agglutinative",
+    "type_correct": 0,
+    "marker_details": {
+      "present_prefixes": {
+        "expected": [
+          "me",
+          "ti",
+          "na"
+        ],
+        "found": [
+          "me",
+          "ti",
+          "na"
+        ],
+        "category_hit": 1
+      },
+      "past_prefixes": {
+        "expected": [
+          "uk",
+          "ot",
+          "ev"
+        ],
+        "found": [
+          "uk",
+          "ot"
+        ],
+        "category_hit": 1
+      },
+      "future_prefixes": {
+        "expected": [
+          "ar",
+          "el",
+          "or"
+        ],
+        "found": [
+          "ar",
+          "el",
+          "or"
+        ],
+        "category_hit": 1
+      },
+      "plural_classes": {
+        "expected": [
+          "esh",
+          "um",
+          "ai",
+          "ok",
+          "ir"
+        ],
+        "found": [
+          "um",
+          "ai"
+        ],
+        "category_hit": 1
+      },
+      "location_to": {
+        "expected": [
+          "dra"
+        ],
+        "found": [
+          "dra"
+        ],
+        "category_hit": 1
+      },
+      "location_into": {
+        "expected": [
+          "vren"
+        ],
+        "found": [
+          "vren"
+        ],
+        "category_hit": 1
+      },
+      "location_in": {
+        "expected": [
+          "nim"
+        ],
+        "found": [],
+        "category_hit": 0
+      },
+      "clause_linking": {
+        "expected": [
+          "ka"
+        ],
+        "found": [
+          "ka"
+        ],
+        "category_hit": 1
+      },
+      "intensifier": {
+        "expected": [
+          "po"
+        ],
+        "found": [
+          "po"
+        ],
+        "category_hit": 1
+      }
+    },
+    "function_details": {
+      "me": {
+        "expected_functions": [
+          "present",
+          "first person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "prefix"
+        ],
+        "function_hit": 1
+      },
+      "ti": {
+        "expected_functions": [
+          "present",
+          "second person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "prefix"
+        ],
+        "function_hit": 1
+      },
+      "na": {
+        "expected_functions": [
+          "present",
+          "third person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "prefix"
+        ],
+        "function_hit": 1
+      },
+      "uk": {
+        "expected_functions": [
+          "past",
+          "first person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "prefix"
+        ],
+        "function_hit": 1
+      },
+      "ot": {
+        "expected_functions": [
+          "past",
+          "second person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "prefix"
+        ],
+        "function_hit": 1
+      },
+      "ev": {
+        "expected_functions": [
+          "past",
+          "third person",
+          "prefix"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ar": {
+        "expected_functions": [
+          "future",
+          "first person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "prefix"
+        ],
+        "function_hit": 1
+      },
+      "el": {
+        "expected_functions": [
+          "future",
+          "second person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "prefix"
+        ],
+        "function_hit": 1
+      },
+      "or": {
+        "expected_functions": [
+          "future",
+          "third person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "prefix"
+        ],
+        "function_hit": 1
+      },
+      "dra": {
+        "expected_functions": [
+          "to",
+          "allative",
+          "destination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "to"
+        ],
+        "function_hit": 1
+      },
+      "vren": {
+        "expected_functions": [
+          "into",
+          "illative"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "nim": {
+        "expected_functions": [
+          "in",
+          "locative"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ka": {
+        "expected_functions": [
+          "because",
+          "clause linking",
+          "subordination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "po": {
+        "expected_functions": [
+          "very",
+          "intensifier"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      }
+    },
+    "feature_details": {
+      "morphological_type": {
+        "expected": "fusional",
+        "keywords_checked": [
+          "fusional",
+          "fused",
+          "fusion",
+          "single prefix",
+          "person-tense"
+        ],
+        "matched": 0
+      },
+      "word_structure": {
+        "expected": "fused prefix",
+        "keywords_checked": [
+          "prefix",
+          "fused",
+          "fusion"
+        ],
+        "matched": 1
+      },
+      "tense_marking": {
+        "expected": "person-tense fusion",
+        "keywords_checked": [
+          "person",
+          "tense",
+          "fused",
+          "fusion"
+        ],
+        "matched": 0
+      },
+      "subject_marking": {
+        "expected": "fused with tense",
+        "keywords_checked": [
+          "person",
+          "tense",
+          "fused"
+        ],
+        "matched": 0
+      },
+      "plural_marking": {
+        "expected": "noun class plural",
+        "keywords_checked": [
+          "plural",
+          "class"
+        ],
+        "matched": 0
+      },
+      "location_marking": {
+        "expected": "free markers",
+        "keywords_checked": [
+          "free markers"
+        ],
+        "matched": 0
+      },
+      "affixation": {
+        "expected": "prefixing",
+        "keywords_checked": [
+          "prefix",
+          "prefixing"
+        ],
+        "matched": 1
+      },
+      "incorporation": {
+        "expected": false,
+        "keywords_checked": [
+          "no incorporation",
+          "not incorporated",
+          "separate",
+          "free"
+        ],
+        "matched": 1
+      }
+    },
+    "generation_details": {
+      "item_1": {
+        "meaning": "medaka dra kano",
+        "form": "medaka dra kano",
+        "checks": {},
+        "valid": 0
+      },
+      "item_2": {
+        "meaning": "medaka vren toto",
+        "form": "medaka vren toto",
+        "checks": {},
+        "valid": 0
+      },
+      "item_3": {
+        "meaning": "ardaka dra kano fila",
+        "form": "ardaka dra kano fila",
+        "checks": {},
+        "valid": 0
+      },
+      "item_4": {
+        "meaning": "ardkaka dra kano fila",
+        "form": "ardkaka dra kano fila",
+        "checks": {},
+        "valid": 0
+      },
+      "item_5": {
+        "meaning": "medaka nala",
+        "form": "medaka nala",
+        "checks": {},
+        "valid": 0
+      },
+      "item_6": {
+        "meaning": "tidaka dra kano",
+        "form": "tidaka dra kano",
+        "checks": {},
+        "valid": 0
+      },
+      "item_7": {
+        "meaning": "tidaka vren toto",
+        "form": "tidaka vren toto",
+        "checks": {},
+        "valid": 0
+      },
+      "item_8": {
+        "meaning": "eldaka dra kano fila",
+        "form": "eldaka dra kano fila",
+        "checks": {},
+        "valid": 0
+      },
+      "item_9": {
+        "meaning": "eldaka vren toto fila",
+        "form": "eldaka vren toto fila",
+        "checks": {},
+        "valid": 0
+      },
+      "item_10": {
+        "meaning": "",
+        "form": "otdaka dra kano fila",
+        "checks": {},
+        "valid": 0
+      }
+    },
+    "generated_forms": [
+      {
+        "form": "medaka dra kano",
+        "meaning": "medaka dra kano"
+      },
+      {
+        "form": "medaka vren toto",
+        "meaning": "medaka vren toto"
+      },
+      {
+        "form": "ardaka dra kano fila",
+        "meaning": "ardaka dra kano fila"
+      },
+      {
+        "form": "ardkaka dra kano fila",
+        "meaning": "ardkaka dra kano fila"
+      },
+      {
+        "form": "medaka nala",
+        "meaning": "medaka nala"
+      },
+      {
+        "form": "tidaka dra kano",
+        "meaning": "tidaka dra kano"
+      },
+      {
+        "form": "tidaka vren toto",
+        "meaning": "tidaka vren toto"
+      },
+      {
+        "form": "eldaka dra kano fila",
+        "meaning": "eldaka dra kano fila"
+      },
+      {
+        "form": "eldaka vren toto fila",
+        "meaning": "eldaka vren toto fila"
+      },
+      {
+        "form": "otdaka dra kano fila",
+        "meaning": ""
+      }
+    ],
+    "rules_text": "LANGUAGE_COLUMN: language_C\nOBSERVED_UNITS: - medaka | noun | id=1\n- medaka dra kano | noun phrase | id=2\n- medaka vren toto | noun phrase | id=3\n- ardaka fila | noun | id=4\n- ardaka dra kano fila | noun phrase | id=5\n- ardaka vren toto fila | noun phrase | id=6\n- ukdaka sena | noun | id=7\n- ukdaka dra kano sena | noun phrase | id=8\n- ukdaka vren toto sena | noun phrase | id=9\n- medaka nala | noun | id=10\n- tidaka | noun | id=11\n- tidaka dra kano | noun phrase | id=12\n- tidaka vren toto | noun phrase | id=13\n- eldaka fila | noun | id=14\n- eldaka dra kano fila | noun phrase | id=15\n- eldaka vren toto fila | noun phrase | id=16\n- otdaka sena | noun | id=17\n-\nRULES_SUMMARY: \nCANDIDATE_MARKERS: \nTYPOLOGICAL_FEATURES: \nUNCERTAINTIES: ",
+    "type_text": "LANGUAGE_COLUMN: language_C\nPREDICTED_TYPE: agglutinative\nCONFIDENCE: high\nREASONING: The forms show clear segmentable parts with relatively stable functions, such as \"dra\" and \"kano\" being repeated and forming compound words. The word structure is predictable and does not suggest isolation or complexity beyond simple segmentation.\nSUPPORTING_PATTERNS: - \"dra\" | Indicates a root or base form that can be repeated.\n- \"kano\" | Indicates another root or base form that can be repeated.\n- \"vren\" | Indicates a prefix or suffix that can be repeated.\n- \"fila\" | Indicates a word formed by repeating \"dra\".\n- \"sena\" | Indicates a word formed by repeating \"kano\".\nALTERNATIVES: - Isolating | The forms are mostly separate\nUNCERTAINTIES: ",
+    "generation_text": "LANGUAGE_COLUMN: language_C\nGENERATED_FORMS: - medaka dra kano | medaka dra kano | medaka dra kano\n- medaka vren toto | medaka vren toto | medaka vren toto\n- ardaka dra kano fila | ardaka dra kano fila | ardaka dra kano fila\n- ardkaka dra kano fila | ardkaka dra kano fila | ardkaka dra kano fila\n- medaka nala | medaka nala | medaka nala\n- tidaka dra kano | tidaka dra kano | tidaka dra kano\n- tidaka vren toto | tidaka vren toto | tidaka vren toto\n- eldaka dra kano fila | eldaka dra kano fila | eldaka dra kano fila\n- eldaka vren toto fila | eldaka vren toto fila | eldaka vren toto fila\n- otdaka dra kano fila |\nGENERATION_NOTES: \nUNCERTAINTIES: "
+  },
+  "language_D": {
+    "true_type": "agglutinative",
+    "predicted_type": "agglutinative",
+    "type_correct": 1,
+    "marker_details": {
+      "person": {
+        "expected": [
+          "ka",
+          "tu",
+          "li"
+        ],
+        "found": [
+          "ka",
+          "tu",
+          "li"
+        ],
+        "category_hit": 1
+      },
+      "future": {
+        "expected": [
+          "ra"
+        ],
+        "found": [
+          "ra"
+        ],
+        "category_hit": 1
+      },
+      "past": {
+        "expected": [
+          "si"
+        ],
+        "found": [
+          "si"
+        ],
+        "category_hit": 1
+      },
+      "plural": {
+        "expected": [
+          "min"
+        ],
+        "found": [],
+        "category_hit": 0
+      },
+      "location_to": {
+        "expected": [
+          "mu"
+        ],
+        "found": [],
+        "category_hit": 0
+      },
+      "location_into": {
+        "expected": [
+          "nun"
+        ],
+        "found": [],
+        "category_hit": 0
+      },
+      "location_in": {
+        "expected": [
+          "ne"
+        ],
+        "found": [
+          "ne"
+        ],
+        "category_hit": 1
+      },
+      "clause_linking": {
+        "expected": [
+          "ka"
+        ],
+        "found": [
+          "ka"
+        ],
+        "category_hit": 1
+      },
+      "intensifier": {
+        "expected": [
+          "po"
+        ],
+        "found": [
+          "po"
+        ],
+        "category_hit": 1
+      }
+    },
+    "function_details": {
+      "ka": {
+        "expected_functions": [
+          "first person",
+          "i",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "i"
+        ],
+        "function_hit": 1
+      },
+      "tu": {
+        "expected_functions": [
+          "second person",
+          "you",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "li": {
+        "expected_functions": [
+          "third person",
+          "he",
+          "it",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "he",
+          "it"
+        ],
+        "function_hit": 1
+      },
+      "ra": {
+        "expected_functions": [
+          "future",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "future"
+        ],
+        "function_hit": 1
+      },
+      "si": {
+        "expected_functions": [
+          "past",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "past"
+        ],
+        "function_hit": 1
+      },
+      "min": {
+        "expected_functions": [
+          "plural",
+          "suffix"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "mu": {
+        "expected_functions": [
+          "to",
+          "allative",
+          "case suffix"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "nun": {
+        "expected_functions": [
+          "into",
+          "illative",
+          "case suffix"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ne": {
+        "expected_functions": [
+          "in",
+          "locative",
+          "case suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "in"
+        ],
+        "function_hit": 1
+      },
+      "po": {
+        "expected_functions": [
+          "very",
+          "intensifier"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      }
+    },
+    "feature_details": {
+      "morphological_type": {
+        "expected": "agglutinative",
+        "keywords_checked": [
+          "agglutinative",
+          "suffix",
+          "segmentable",
+          "transparent"
+        ],
+        "matched": 1
+      },
+      "word_structure": {
+        "expected": "suffix chain",
+        "keywords_checked": [
+          "suffix",
+          "chain",
+          "agglutinative",
+          "segmentable"
+        ],
+        "matched": 1
+      },
+      "tense_marking": {
+        "expected": "suffixes",
+        "keywords_checked": [
+          "suffix",
+          "suffixes"
+        ],
+        "matched": 0
+      },
+      "subject_marking": {
+        "expected": "suffix on verb",
+        "keywords_checked": [
+          "suffix",
+          "verb"
+        ],
+        "matched": 0
+      },
+      "plural_marking": {
+        "expected": "suffix",
+        "keywords_checked": [
+          "suffix"
+        ],
+        "matched": 0
+      },
+      "location_marking": {
+        "expected": "case suffixes",
+        "keywords_checked": [
+          "case",
+          "suffix"
+        ],
+        "matched": 0
+      },
+      "affixation": {
+        "expected": "suffixing",
+        "keywords_checked": [
+          "suffix",
+          "suffixing"
+        ],
+        "matched": 0
+      },
+      "incorporation": {
+        "expected": false,
+        "keywords_checked": [
+          "no incorporation",
+          "not incorporated",
+          "separate",
+          "free"
+        ],
+        "matched": 0
+      }
+    },
+    "generation_details": {
+      "item_1": {
+        "meaning": "<daka-ka is a common word in the dataset>",
+        "form": "daka-ka",
+        "checks": {},
+        "valid": 0
+      },
+      "item_2": {
+        "meaning": "<daka-ka-ra is a common word in the dataset>",
+        "form": "daka-ka-ra",
+        "checks": {},
+        "valid": 0
+      },
+      "item_3": {
+        "meaning": "<daka-ka-si is a common word in the dataset>",
+        "form": "daka-ka-si",
+        "checks": {},
+        "valid": 0
+      },
+      "item_4": {
+        "meaning": "<naku-ka is a common word in the dataset>",
+        "form": "naku-ka",
+        "checks": {},
+        "valid": 0
+      },
+      "item_5": {
+        "meaning": "<naku-ka-ra is a common word in the dataset>",
+        "form": "naku-ka-ra",
+        "checks": {},
+        "valid": 0
+      },
+      "item_6": {
+        "meaning": "<naku-ka-si is a common word in the dataset>",
+        "form": "naku-ka-si",
+        "checks": {},
+        "valid": 0
+      },
+      "item_7": {
+        "meaning": "<bogu-li is a common word in the dataset>",
+        "form": "bogu-li",
+        "checks": {},
+        "valid": 0
+      },
+      "item_8": {
+        "meaning": "<notu-ka is a common word",
+        "form": "notu-ka",
+        "checks": {},
+        "valid": 0
+      }
+    },
+    "generated_forms": [
+      {
+        "form": "daka-ka",
+        "meaning": "<daka-ka is a common word in the dataset>"
+      },
+      {
+        "form": "daka-ka-ra",
+        "meaning": "<daka-ka-ra is a common word in the dataset>"
+      },
+      {
+        "form": "daka-ka-si",
+        "meaning": "<daka-ka-si is a common word in the dataset>"
+      },
+      {
+        "form": "naku-ka",
+        "meaning": "<naku-ka is a common word in the dataset>"
+      },
+      {
+        "form": "naku-ka-ra",
+        "meaning": "<naku-ka-ra is a common word in the dataset>"
+      },
+      {
+        "form": "naku-ka-si",
+        "meaning": "<naku-ka-si is a common word in the dataset>"
+      },
+      {
+        "form": "bogu-li",
+        "meaning": "<bogu-li is a common word in the dataset>"
+      },
+      {
+        "form": "notu-ka",
+        "meaning": "<notu-ka is a common word"
+      }
+    ],
+    "rules_text": "LANGUAGE_COLUMN: language_D\nOBSERVED_UNITS: - da-ka | past | daka-ka\n- da-ka | present | daka-ka\n- da-ka | future | daka-ka\n- da-ka | location | daka-ka\n- da-ka | copula | daka-ka\n- da-ka | clause linking | daka-ka\n- da-ka | plural | daka-ka\n- da-ka | subject | daka-ka\n- da-ka | object | daka-ka\n- da-ka | tense | daka-ka\n- da-ka | location | daka-ka\n- da-ka | copula | daka-ka\n- da-ka | clause linking | daka-ka\n- da-ka | plural | daka-ka\n- da-ka | subject | daka-ka\n- da-ka | object | daka-ka\n- da-ka | tense | daka-ka\n- da-ka | location | daka-ka\n- da-ka | copula | daka-ka\n- da-ka | clause linking | daka-ka\n-\nRULES_SUMMARY: \nCANDIDATE_MARKERS: \nTYPOLOGICAL_FEATURES: \nUNCERTAINTIES: ",
+    "type_text": "LANGUAGE_COLUMN: language_D\nPREDICTED_TYPE: agglutinative\nCONFIDENCE: high\nREASONING: The column shows a clear pattern of agglutination where each word consists of a root (e.g., \"daka\", \"naku\") followed by a series of affixes (e.g., \"-ka\", \"-ne\", \"-si\"). The affixes are added to the root to form new words, indicating that the language has a strong tendency towards agglutinative morphology.\nSUPPORTING_PATTERNS: - \"daka\" | The root without any affixes.\n- \"daka-ka\" | Adding \"-ka\" as an affix.\n- \"daka-ka-si\" | Adding \"-si\" as another affix.\n- \"daka-ka-si-s\nALTERNATIVES: \nUNCERTAINTIES: ",
+    "generation_text": "LANGUAGE_COLUMN: language_D\nGENERATED_FORMS: - daka-ka | <reused patterns> | <daka-ka is a common word in the dataset>\n- daka-ka-ra | <reused patterns> | <daka-ka-ra is a common word in the dataset>\n- daka-ka-si | <reused patterns> | <daka-ka-si is a common word in the dataset>\n- naku-ka | <reused patterns> | <naku-ka is a common word in the dataset>\n- naku-ka-ra | <reused patterns> | <naku-ka-ra is a common word in the dataset>\n- naku-ka-si | <reused patterns> | <naku-ka-si is a common word in the dataset>\n- bogu-li | <reused patterns> | <bogu-li is a common word in the dataset>\n- notu-ka | <reused patterns> | <notu-ka is a common word\nGENERATION_NOTES: \nUNCERTAINTIES: "
+  },
+  "language_E": {
+    "true_type": "polysynthetic",
+    "predicted_type": "agglutinative",
+    "type_correct": 0,
+    "marker_details": {
+      "subject_prefixes": {
+        "expected": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "found": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "category_hit": 1
+      },
+      "future": {
+        "expected": [
+          "ru"
+        ],
+        "found": [
+          "ru"
+        ],
+        "category_hit": 1
+      },
+      "past": {
+        "expected": [
+          "se"
+        ],
+        "found": [
+          "se"
+        ],
+        "category_hit": 1
+      },
+      "plural": {
+        "expected": [
+          "it"
+        ],
+        "found": [
+          "it"
+        ],
+        "category_hit": 1
+      },
+      "location_to": {
+        "expected": [
+          "mo"
+        ],
+        "found": [
+          "mo"
+        ],
+        "category_hit": 1
+      },
+      "location_into": {
+        "expected": [
+          "nu"
+        ],
+        "found": [
+          "nu"
+        ],
+        "category_hit": 1
+      },
+      "location_in": {
+        "expected": [
+          "ni"
+        ],
+        "found": [
+          "ni"
+        ],
+        "category_hit": 1
+      },
+      "clause_linking": {
+        "expected": [
+          "ka"
+        ],
+        "found": [
+          "ka"
+        ],
+        "category_hit": 1
+      },
+      "intensifier": {
+        "expected": [
+          "po"
+        ],
+        "found": [
+          "po"
+        ],
+        "category_hit": 1
+      }
+    },
+    "function_details": {
+      "ma": {
+        "expected_functions": [
+          "first person",
+          "i",
+          "subject prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "i"
+        ],
+        "function_hit": 1
+      },
+      "ta": {
+        "expected_functions": [
+          "second person",
+          "you",
+          "subject prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "lo": {
+        "expected_functions": [
+          "third person",
+          "he",
+          "it",
+          "subject prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "he",
+          "it"
+        ],
+        "function_hit": 1
+      },
+      "ru": {
+        "expected_functions": [
+          "future",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "se": {
+        "expected_functions": [
+          "past",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "it": {
+        "expected_functions": [
+          "plural"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "mo": {
+        "expected_functions": [
+          "to",
+          "allative",
+          "incorporated location"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "to"
+        ],
+        "function_hit": 1
+      },
+      "nu": {
+        "expected_functions": [
+          "into",
+          "illative",
+          "incorporated location"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "into"
+        ],
+        "function_hit": 1
+      },
+      "ni": {
+        "expected_functions": [
+          "in",
+          "locative",
+          "incorporated location"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "in"
+        ],
+        "function_hit": 1
+      },
+      "ka": {
+        "expected_functions": [
+          "because",
+          "clause linking",
+          "subordination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "po": {
+        "expected_functions": [
+          "very",
+          "intensifier"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      }
+    },
+    "feature_details": {
+      "morphological_type": {
+        "expected": "polysynthetic",
+        "keywords_checked": [
+          "polysynthetic",
+          "incorporation",
+          "complex predicate",
+          "single word"
+        ],
+        "matched": 0
+      },
+      "word_structure": {
+        "expected": "complex predicate",
+        "keywords_checked": [
+          "complex",
+          "predicate",
+          "single word"
+        ],
+        "matched": 0
+      },
+      "tense_marking": {
+        "expected": "suffix inside predicate",
+        "keywords_checked": [
+          "suffix",
+          "predicate"
+        ],
+        "matched": 0
+      },
+      "subject_marking": {
+        "expected": "subject prefixes",
+        "keywords_checked": [
+          "subject",
+          "prefix"
+        ],
+        "matched": 0
+      },
+      "object_marking": {
+        "expected": "incorporation",
+        "keywords_checked": [
+          "incorporation",
+          "incorporated",
+          "complex word"
+        ],
+        "matched": 0
+      },
+      "location_marking": {
+        "expected": "incorporation",
+        "keywords_checked": [
+          "incorporation",
+          "incorporated",
+          "complex word"
+        ],
+        "matched": 0
+      },
+      "affixation": {
+        "expected": "mixed prefixing suffixing",
+        "keywords_checked": [
+          "prefix",
+          "suffix",
+          "mixed"
+        ],
+        "matched": 0
+      },
+      "incorporation": {
+        "expected": true,
+        "keywords_checked": [
+          "incorporation",
+          "incorporated",
+          "complex predicate"
+        ],
+        "matched": 0
+      }
+    },
+    "generation_details": {
+      "item_1": {
+        "meaning": "matotonudakasesena is a plausible form as it combines the meaning of 'madaka' (to speak) with 'kasesena' (speech), suggesting a form related to speech production or articulation.",
+        "form": "madakasesena",
+        "checks": {},
+        "valid": 0
+      },
+      "item_2": {
+        "meaning": "matotonudakarufila is plausible as it combines 'manaku' (to speak) with 'karufila' (speech), indicating a form related to speech production or articulation.",
+        "form": "manakurufila",
+        "checks": {},
+        "valid": 0
+      },
+      "item_3": {
+        "meaning": "matotonudakanala is plausible as it combines 'madaka' (to speak) with 'kanala' (speech), suggesting a form related to speech production or articulation.",
+        "form": "madakanala",
+        "checks": {},
+        "valid": 0
+      }
+    },
+    "generated_forms": [
+      {
+        "form": "madakasesena",
+        "meaning": "matotonudakasesena is a plausible form as it combines the meaning of 'madaka' (to speak) with 'kasesena' (speech), suggesting a form related to speech production or articulation."
+      },
+      {
+        "form": "manakurufila",
+        "meaning": "matotonudakarufila is plausible as it combines 'manaku' (to speak) with 'karufila' (speech), indicating a form related to speech production or articulation."
+      },
+      {
+        "form": "madakanala",
+        "meaning": "matotonudakanala is plausible as it combines 'madaka' (to speak) with 'kanala' (speech), suggesting a form related to speech production or articulation."
+      }
+    ],
+    "rules_text": "LANGUAGE_COLUMN: language_E\nOBSERVED_UNITS: - madaka | noun | \n- matotonudaka | noun | \n- tadaka | noun | \n- manaku | noun | \n- lonaku | noun | \n- lobogu | noun | \n- mapelinotu | noun | \n- mapelikanoninotu | noun | \n- mapelitotoninotu | noun | \n- mapelinoturufila | verb | \n- mapelikanoninoturufila | verb | \n- mapelitotoninoturufila | verb | \n- mapelinotusesena | verb | \n- mapelikanoninotusesena | verb | \n- mapelitotoninotusesena | verb | \n- maufenunotu | noun | \n- maufenukanoninotu | noun | \n- maufenutotoninotu | noun | \n- maufenunoturufila | verb | \n- maufenukanoninoturufila | verb | \n- maufenutotoninoturufila | verb | \n- maufenunotusesena | verb | \n- maufenukanoninotusesena | verb | \n-\nRULES_SUMMARY: \nCANDIDATE_MARKERS: \nTYPOLOGICAL_FEATURES: \nUNCERTAINTIES: ",
+    "type_text": "LANGUAGE_COLUMN: language_E\nPREDICTED_TYPE: agglutinative\nCONFIDENCE: high\nREASONING: The forms in this column show clear segmentable parts with relatively stable functions, such as \"madaka\" and \"tadaka\". These parts can be combined into longer words like \"madakarufila\" and \"takanoninaku\", indicating agglutinative morphology.\nSUPPORTING_PATTERNS: - madaka | shows a single root word\n- tadaka | shows a single root word\n- madakarufila | combines two roots\n- takanoninaku | combines two roots\n- matotonudaka | combines three roots\n- tatotonudaka | combines three roots\n- madakasesena | combines four roots\n- tatotonudakasesena | combines\nALTERNATIVES: \nUNCERTAINTIES: ",
+    "generation_text": "LANGUAGE_COLUMN: language_E\nGENERATED_FORMS: - madakasesena | matotonudakasesena | matotonudakasesena is a plausible form as it combines the meaning of 'madaka' (to speak) with 'kasesena' (speech), suggesting a form related to speech production or articulation.\n- manakurufila | matotonudakarufila | matotonudakarufila is plausible as it combines 'manaku' (to speak) with 'karufila' (speech), indicating a form related to speech production or articulation.\n- madakanala | matotonudakanala | matotonudakanala is plausible as it combines 'madaka' (to speak) with 'kanala' (speech), suggesting a form related to speech production or articulation.\nGENERATION_NOTES: The generated forms are plausible because they maintain the structure of combining 'madaka' (to speak) with another word that could relate to speech production or articulation. The reused patterns are based on the existing\nUNCERTAINTIES: "
+  }
+}

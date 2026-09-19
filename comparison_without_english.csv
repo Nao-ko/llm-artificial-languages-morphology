@@ -1,0 +1,6 @@
+language_column,true_type,predicted_type,type_correct,marker_hits,marker_total,marker_score,function_hits,function_total,function_score,feature_hits,feature_total,feature_score,generation_hits,generation_total,generation_score,overall_score
+language_A,isolating,agglutinative,0,7,12,0.583,6,12,0.5,0,7,0.0,0,2,0.0,0.271
+language_B,analytic,agglutinative,0,7,12,0.583,4,12,0.333,0,7,0.0,0,2,0.0,0.229
+language_C,fusional,agglutinative,0,3,19,0.158,2,14,0.143,0,8,0.0,0,10,0.0,0.075
+language_D,agglutinative,agglutinative,1,6,11,0.545,2,10,0.2,1,8,0.125,0,7,0.0,0.468
+language_E,polysynthetic,agglutinative,0,1,11,0.091,0,11,0.0,0,8,0.0,0,3,0.0,0.023

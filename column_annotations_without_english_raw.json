@@ -1,0 +1,147 @@
+[
+  {
+    "language_column": "language_A",
+    "rules_raw": "===LANGUAGE_COLUMN===\nlanguage_A\n\n===OBSERVED_UNITS===\n- ma | past tense marker | ma daka\n- daka | verb root | ma daka\n- du | location marker | ma daka du kano\n- ri | location marker | ma daka ri toto\n- vek | auxiliary verb | fila ma vek daka\n- naku | auxiliary verb | fila ma vek naku\n- tun | auxiliary verb | fila ma tun daka\n- nala | location marker | ma nala\n- na | location marker | ma naku na kano\n- toto | location marker | ma naku na toto\n- lo | auxiliary verb | fila lo vek daka\n- vek | auxiliary verb | fila lo vek naku\n- naku | auxiliary verb | fila lo vek naku\n- tun | auxiliary verb | fila lo tun daka\n- nala | location marker | lo nala\n- bogu | auxiliary verb | fila lo vek bogu\n- tun | auxiliary verb | fila lo tun bogu\n- notu | auxiliary verb | fila ma vek notu\n- fenu | auxiliary verb | fila ma vek fenu\n- raki",
+    "rules_parsed": {
+      "LANGUAGE_COLUMN": "language_A",
+      "OBSERVED_UNITS": "- ma | past tense marker | ma daka\n- daka | verb root | ma daka\n- du | location marker | ma daka du kano\n- ri | location marker | ma daka ri toto\n- vek | auxiliary verb | fila ma vek daka\n- naku | auxiliary verb | fila ma vek naku\n- tun | auxiliary verb | fila ma tun daka\n- nala | location marker | ma nala\n- na | location marker | ma naku na kano\n- toto | location marker | ma naku na toto\n- lo | auxiliary verb | fila lo vek daka\n- vek | auxiliary verb | fila lo vek naku\n- naku | auxiliary verb | fila lo vek naku\n- tun | auxiliary verb | fila lo tun daka\n- nala | location marker | lo nala\n- bogu | auxiliary verb | fila lo vek bogu\n- tun | auxiliary verb | fila lo tun bogu\n- notu | auxiliary verb | fila ma vek notu\n- fenu | auxiliary verb | fila ma vek fenu\n- raki",
+      "RULES_SUMMARY": "",
+      "CANDIDATE_MARKERS": "",
+      "TYPOLOGICAL_FEATURES": "",
+      "UNCERTAINTIES": ""
+    },
+    "type_raw": "===LANGUAGE_COLUMN===\nlanguage_A\n\n===PREDICTED_TYPE===\nagglutinative\n\n===CONFIDENCE===\nhigh\n\n===REASONING===\nThe forms show clear segmentable parts with relatively stable functions, such as \"daka\" (noun), \"du\" (adverb), and \"ri\" (preposition). These segments can be combined into longer words without losing their meaning or function. The word structure is consistent across all forms, indicating a strong agglutinative pattern.\n\n===SUPPORTING_PATTERNS===\n- \"daka\" | This is a single segment that can stand alone as a noun.\n- \"du\" | This is a distinct adverbial suffix.\n- \"ri\" | This is a prepositional suffix.\n- \"nala\" | This is a separate form used after verbs, showing a clear segmentation.\n\n===ALTERNAT",
+    "type_parsed": {
+      "LANGUAGE_COLUMN": "language_A",
+      "PREDICTED_TYPE": "agglutinative",
+      "CONFIDENCE": "high",
+      "REASONING": "The forms show clear segmentable parts with relatively stable functions, such as \"daka\" (noun), \"du\" (adverb), and \"ri\" (preposition). These segments can be combined into longer words without losing their meaning or function. The word structure is consistent across all forms, indicating a strong agglutinative pattern.",
+      "SUPPORTING_PATTERNS": "- \"daka\" | This is a single segment that can stand alone as a noun.\n- \"du\" | This is a distinct adverbial suffix.\n- \"ri\" | This is a prepositional suffix.\n- \"nala\" | This is a separate form used after verbs, showing a clear segmentation.\n\n===ALTERNAT",
+      "ALTERNATIVES": "",
+      "UNCERTAINTIES": ""
+    },
+    "generation_raw": "===LANGUAGE_COLUMN===\nlanguage_A\n\n===GENERATED_FORMS===\n- ma daka | ma daka | ma daka is a common word in the language, used as a base form.\n- ma daka du kano | ma daka du kano | This indicates a plural form, showing agreement with the noun.\n- ma daka ri toto | ma daka ri toto | This shows a possessive form, indicating possession.\n- fila ma vek daka | fila ma vek daka | This is a verb form, showing past tense.\n- fila ma vek daka du kano | fila ma vek daka du kano | This shows a past plural form, indicating multiple actions.\n- fila ma vek daka ri toto | fila ma vek daka ri toto | This shows a past possessive form, indicating multiple possessions.\n\n===GENERATION_NOTES===\nThe language appears to be a simple agglutinative language, where suffixes are added to roots to change their meaning or grammatical function. The forms provided",
+    "generation_parsed": {
+      "LANGUAGE_COLUMN": "language_A",
+      "GENERATED_FORMS": "- ma daka | ma daka | ma daka is a common word in the language, used as a base form.\n- ma daka du kano | ma daka du kano | This indicates a plural form, showing agreement with the noun.\n- ma daka ri toto | ma daka ri toto | This shows a possessive form, indicating possession.\n- fila ma vek daka | fila ma vek daka | This is a verb form, showing past tense.\n- fila ma vek daka du kano | fila ma vek daka du kano | This shows a past plural form, indicating multiple actions.\n- fila ma vek daka ri toto | fila ma vek daka ri toto | This shows a past possessive form, indicating multiple possessions.",
+      "GENERATION_NOTES": "The language appears to be a simple agglutinative language, where suffixes are added to roots to change their meaning or grammatical function. The forms provided",
+      "UNCERTAINTIES": ""
+    }
+  },
+  {
+    "language_column": "language_B",
+    "rules_raw": "===LANGUAGE_COLUMN===\nlanguage_B\n\n===OBSERVED_UNITS===\n- ma | past tense marker | ma daka\n- ta | past tense marker | ta daka\n- lo | past tense marker | lo daka\n- ta | present tense marker | ta zo daka\n- lo | present tense marker | lo zo daka\n- ma | future tense marker | ma naku\n- ta | future tense marker | ta naku\n- lo | future tense marker | lo naku\n- ma | copula | ma daka\n- ta | copula | ta zo daka\n- lo | copula | lo zo daka\n- ma | clause linking | ma daka nala\n- ta | clause linking | ta zo daka nala\n- lo | clause linking | lo zo daka nala\n- ma | plural marker | ma daka nel toto\n- ta | plural marker | ta zo daka nel toto\n- lo | plural marker | lo zo daka nel toto\n- ma | location marker | ma daka mu kano\n- ta | location marker | ta zo daka mu kano\n- lo | location marker | lo zo daka mu kano\n- ma | location marker",
+    "rules_parsed": {
+      "LANGUAGE_COLUMN": "language_B",
+      "OBSERVED_UNITS": "- ma | past tense marker | ma daka\n- ta | past tense marker | ta daka\n- lo | past tense marker | lo daka\n- ta | present tense marker | ta zo daka\n- lo | present tense marker | lo zo daka\n- ma | future tense marker | ma naku\n- ta | future tense marker | ta naku\n- lo | future tense marker | lo naku\n- ma | copula | ma daka\n- ta | copula | ta zo daka\n- lo | copula | lo zo daka\n- ma | clause linking | ma daka nala\n- ta | clause linking | ta zo daka nala\n- lo | clause linking | lo zo daka nala\n- ma | plural marker | ma daka nel toto\n- ta | plural marker | ta zo daka nel toto\n- lo | plural marker | lo zo daka nel toto\n- ma | location marker | ma daka mu kano\n- ta | location marker | ta zo daka mu kano\n- lo | location marker | lo zo daka mu kano\n- ma | location marker",
+      "RULES_SUMMARY": "",
+      "CANDIDATE_MARKERS": "",
+      "TYPOLOGICAL_FEATURES": "",
+      "UNCERTAINTIES": ""
+    },
+    "type_raw": "===LANGUAGE_COLUMN===\nlanguage_B\n\n===PREDICTED_TYPE===\nagglutinative\n\n===CONFIDENCE===\nhigh\n\n===REASONING===\nThe forms show clear segmentable parts with relatively stable functions, such as \"daka\" (noun), \"mu\" (possessive), \"kano\" (adjective), and \"fila\" (verb). These segments can be combined into longer words without losing their meaning or function.\n\n===SUPPORTING_PATTERNS===\n- \"daka\" | Represents a noun that can be modified by adjectives and verbs.\n- \"mu\" | Indicates possession or modification.\n- \"kano\" | Shows an adjective modifying another word.\n- \"fila\" | Demonstrates a verb form.\n\n===ALTERNATIVES===\n- None\n\n===UNCERTAINTIES===\nNone\n\n===REJECTED_ALTERNATIVES===\n- Is",
+    "type_parsed": {
+      "LANGUAGE_COLUMN": "language_B",
+      "PREDICTED_TYPE": "agglutinative",
+      "CONFIDENCE": "high",
+      "REASONING": "The forms show clear segmentable parts with relatively stable functions, such as \"daka\" (noun), \"mu\" (possessive), \"kano\" (adjective), and \"fila\" (verb). These segments can be combined into longer words without losing their meaning or function.",
+      "SUPPORTING_PATTERNS": "- \"daka\" | Represents a noun that can be modified by adjectives and verbs.\n- \"mu\" | Indicates possession or modification.\n- \"kano\" | Shows an adjective modifying another word.\n- \"fila\" | Demonstrates a verb form.",
+      "ALTERNATIVES": "- None",
+      "UNCERTAINTIES": "None\n\n===REJECTED_ALTERNATIVES===\n- Is"
+    },
+    "generation_raw": "===LANGUAGE_COLUMN===\nlanguage_B\n\n===GENERATED_FORMS===\n- ma daka | ma daka | ma daka is a common word in the language, used as a base form.\n- ma zo daka | ma zo daka | ma zo daka is another form of the same word, possibly indicating a different grammatical function or aspect.\n- ma ki daka | ma ki daka | ma ki daka is a third form of the word, possibly indicating a past tense or passive voice.\n- ta daka | ta daka | ta daka is a similar form, possibly indicating a different grammatical function or aspect.\n- lo daka | lo daka | lo daka is a fourth form of the word, possibly indicating a different grammatical function or aspect.\n\n===GENERATION_NOTES===\nThe language appears to be a simple agglutinative language, where suffixes are added to the root word to change its meaning or grammatical function. The forms provided are plausible extensions of the given words, maintaining the agglutinative nature of the",
+    "generation_parsed": {
+      "LANGUAGE_COLUMN": "language_B",
+      "GENERATED_FORMS": "- ma daka | ma daka | ma daka is a common word in the language, used as a base form.\n- ma zo daka | ma zo daka | ma zo daka is another form of the same word, possibly indicating a different grammatical function or aspect.\n- ma ki daka | ma ki daka | ma ki daka is a third form of the word, possibly indicating a past tense or passive voice.\n- ta daka | ta daka | ta daka is a similar form, possibly indicating a different grammatical function or aspect.\n- lo daka | lo daka | lo daka is a fourth form of the word, possibly indicating a different grammatical function or aspect.",
+      "GENERATION_NOTES": "The language appears to be a simple agglutinative language, where suffixes are added to the root word to change its meaning or grammatical function. The forms provided are plausible extensions of the given words, maintaining the agglutinative nature of the",
+      "UNCERTAINTIES": ""
+    }
+  },
+  {
+    "language_column": "language_C",
+    "rules_raw": "===LANGUAGE_COLUMN===\nlanguage_C\n\n===OBSERVED_UNITS===\n- medaka | noun | id=1\n- medaka dra kano | noun phrase | id=2\n- medaka vren toto | noun phrase | id=3\n- ardaka fila | noun | id=4\n- ardaka dra kano fila | noun phrase | id=5\n- ardaka vren toto fila | noun phrase | id=6\n- ukdaka sena | noun | id=7\n- ukdaka dra kano sena | noun phrase | id=8\n- ukdaka vren toto sena | noun phrase | id=9\n- medaka nala | noun | id=10\n- tidaka | noun | id=11\n- tidaka dra kano | noun phrase | id=12\n- tidaka vren toto | noun phrase | id=13\n- eldaka fila | noun | id=14\n- eldaka dra kano fila | noun phrase | id=15\n- eldaka vren toto fila | noun phrase | id=16\n- otdaka sena | noun | id=17\n-",
+    "rules_parsed": {
+      "LANGUAGE_COLUMN": "language_C",
+      "OBSERVED_UNITS": "- medaka | noun | id=1\n- medaka dra kano | noun phrase | id=2\n- medaka vren toto | noun phrase | id=3\n- ardaka fila | noun | id=4\n- ardaka dra kano fila | noun phrase | id=5\n- ardaka vren toto fila | noun phrase | id=6\n- ukdaka sena | noun | id=7\n- ukdaka dra kano sena | noun phrase | id=8\n- ukdaka vren toto sena | noun phrase | id=9\n- medaka nala | noun | id=10\n- tidaka | noun | id=11\n- tidaka dra kano | noun phrase | id=12\n- tidaka vren toto | noun phrase | id=13\n- eldaka fila | noun | id=14\n- eldaka dra kano fila | noun phrase | id=15\n- eldaka vren toto fila | noun phrase | id=16\n- otdaka sena | noun | id=17\n-",
+      "RULES_SUMMARY": "",
+      "CANDIDATE_MARKERS": "",
+      "TYPOLOGICAL_FEATURES": "",
+      "UNCERTAINTIES": ""
+    },
+    "type_raw": "===LANGUAGE_COLUMN===\nlanguage_C\n\n===PREDICTED_TYPE===\nagglutinative\n\n===CONFIDENCE===\nhigh\n\n===REASONING===\nThe forms show clear segmentable parts with relatively stable functions, such as \"dra\" and \"kano\" being repeated and forming compound words. The word structure is predictable and does not suggest isolation or complexity beyond simple segmentation.\n\n===SUPPORTING_PATTERNS===\n- \"dra\" | Indicates a root or base form that can be repeated.\n- \"kano\" | Indicates another root or base form that can be repeated.\n- \"vren\" | Indicates a prefix or suffix that can be repeated.\n- \"fila\" | Indicates a word formed by repeating \"dra\".\n- \"sena\" | Indicates a word formed by repeating \"kano\".\n\n===ALTERNATIVES===\n- Isolating | The forms are mostly separate",
+    "type_parsed": {
+      "LANGUAGE_COLUMN": "language_C",
+      "PREDICTED_TYPE": "agglutinative",
+      "CONFIDENCE": "high",
+      "REASONING": "The forms show clear segmentable parts with relatively stable functions, such as \"dra\" and \"kano\" being repeated and forming compound words. The word structure is predictable and does not suggest isolation or complexity beyond simple segmentation.",
+      "SUPPORTING_PATTERNS": "- \"dra\" | Indicates a root or base form that can be repeated.\n- \"kano\" | Indicates another root or base form that can be repeated.\n- \"vren\" | Indicates a prefix or suffix that can be repeated.\n- \"fila\" | Indicates a word formed by repeating \"dra\".\n- \"sena\" | Indicates a word formed by repeating \"kano\".",
+      "ALTERNATIVES": "- Isolating | The forms are mostly separate",
+      "UNCERTAINTIES": ""
+    },
+    "generation_raw": "===LANGUAGE_COLUMN===\nlanguage_C\n\n===GENERATED_FORMS===\n- medaka dra kano | medaka dra kano | medaka dra kano\n- medaka vren toto | medaka vren toto | medaka vren toto\n- ardaka dra kano fila | ardaka dra kano fila | ardaka dra kano fila\n- ardkaka dra kano fila | ardkaka dra kano fila | ardkaka dra kano fila\n- medaka nala | medaka nala | medaka nala\n- tidaka dra kano | tidaka dra kano | tidaka dra kano\n- tidaka vren toto | tidaka vren toto | tidaka vren toto\n- eldaka dra kano fila | eldaka dra kano fila | eldaka dra kano fila\n- eldaka vren toto fila | eldaka vren toto fila | eldaka vren toto fila\n- otdaka dra kano fila |",
+    "generation_parsed": {
+      "LANGUAGE_COLUMN": "language_C",
+      "GENERATED_FORMS": "- medaka dra kano | medaka dra kano | medaka dra kano\n- medaka vren toto | medaka vren toto | medaka vren toto\n- ardaka dra kano fila | ardaka dra kano fila | ardaka dra kano fila\n- ardkaka dra kano fila | ardkaka dra kano fila | ardkaka dra kano fila\n- medaka nala | medaka nala | medaka nala\n- tidaka dra kano | tidaka dra kano | tidaka dra kano\n- tidaka vren toto | tidaka vren toto | tidaka vren toto\n- eldaka dra kano fila | eldaka dra kano fila | eldaka dra kano fila\n- eldaka vren toto fila | eldaka vren toto fila | eldaka vren toto fila\n- otdaka dra kano fila |",
+      "GENERATION_NOTES": "",
+      "UNCERTAINTIES": ""
+    }
+  },
+  {
+    "language_column": "language_D",
+    "rules_raw": "===LANGUAGE_COLUMN===\nlanguage_D\n\n===OBSERVED_UNITS===\n- da-ka | past | daka-ka\n- da-ka | present | daka-ka\n- da-ka | future | daka-ka\n- da-ka | location | daka-ka\n- da-ka | copula | daka-ka\n- da-ka | clause linking | daka-ka\n- da-ka | plural | daka-ka\n- da-ka | subject | daka-ka\n- da-ka | object | daka-ka\n- da-ka | tense | daka-ka\n- da-ka | location | daka-ka\n- da-ka | copula | daka-ka\n- da-ka | clause linking | daka-ka\n- da-ka | plural | daka-ka\n- da-ka | subject | daka-ka\n- da-ka | object | daka-ka\n- da-ka | tense | daka-ka\n- da-ka | location | daka-ka\n- da-ka | copula | daka-ka\n- da-ka | clause linking | daka-ka\n-",
+    "rules_parsed": {
+      "LANGUAGE_COLUMN": "language_D",
+      "OBSERVED_UNITS": "- da-ka | past | daka-ka\n- da-ka | present | daka-ka\n- da-ka | future | daka-ka\n- da-ka | location | daka-ka\n- da-ka | copula | daka-ka\n- da-ka | clause linking | daka-ka\n- da-ka | plural | daka-ka\n- da-ka | subject | daka-ka\n- da-ka | object | daka-ka\n- da-ka | tense | daka-ka\n- da-ka | location | daka-ka\n- da-ka | copula | daka-ka\n- da-ka | clause linking | daka-ka\n- da-ka | plural | daka-ka\n- da-ka | subject | daka-ka\n- da-ka | object | daka-ka\n- da-ka | tense | daka-ka\n- da-ka | location | daka-ka\n- da-ka | copula | daka-ka\n- da-ka | clause linking | daka-ka\n-",
+      "RULES_SUMMARY": "",
+      "CANDIDATE_MARKERS": "",
+      "TYPOLOGICAL_FEATURES": "",
+      "UNCERTAINTIES": ""
+    },
+    "type_raw": "===LANGUAGE_COLUMN===\nlanguage_D\n\n===PREDICTED_TYPE===\nagglutinative\n\n===CONFIDENCE===\nhigh\n\n===REASONING===\nThe column shows a clear pattern of agglutination where each word consists of a root (e.g., \"daka\", \"naku\") followed by a series of affixes (e.g., \"-ka\", \"-ne\", \"-si\"). The affixes are added to the root to form new words, indicating that the language has a strong tendency towards agglutinative morphology.\n\n===SUPPORTING_PATTERNS===\n- \"daka\" | The root without any affixes.\n- \"daka-ka\" | Adding \"-ka\" as an affix.\n- \"daka-ka-si\" | Adding \"-si\" as another affix.\n- \"daka-ka-si-s",
+    "type_parsed": {
+      "LANGUAGE_COLUMN": "language_D",
+      "PREDICTED_TYPE": "agglutinative",
+      "CONFIDENCE": "high",
+      "REASONING": "The column shows a clear pattern of agglutination where each word consists of a root (e.g., \"daka\", \"naku\") followed by a series of affixes (e.g., \"-ka\", \"-ne\", \"-si\"). The affixes are added to the root to form new words, indicating that the language has a strong tendency towards agglutinative morphology.",
+      "SUPPORTING_PATTERNS": "- \"daka\" | The root without any affixes.\n- \"daka-ka\" | Adding \"-ka\" as an affix.\n- \"daka-ka-si\" | Adding \"-si\" as another affix.\n- \"daka-ka-si-s",
+      "ALTERNATIVES": "",
+      "UNCERTAINTIES": ""
+    },
+    "generation_raw": "===LANGUAGE_COLUMN===\nlanguage_D\n\n===GENERATED_FORMS===\n- daka-ka | <reused patterns> | <daka-ka is a common word in the dataset>\n- daka-ka-ra | <reused patterns> | <daka-ka-ra is a common word in the dataset>\n- daka-ka-si | <reused patterns> | <daka-ka-si is a common word in the dataset>\n- naku-ka | <reused patterns> | <naku-ka is a common word in the dataset>\n- naku-ka-ra | <reused patterns> | <naku-ka-ra is a common word in the dataset>\n- naku-ka-si | <reused patterns> | <naku-ka-si is a common word in the dataset>\n- bogu-li | <reused patterns> | <bogu-li is a common word in the dataset>\n- notu-ka | <reused patterns> | <notu-ka is a common word",
+    "generation_parsed": {
+      "LANGUAGE_COLUMN": "language_D",
+      "GENERATED_FORMS": "- daka-ka | <reused patterns> | <daka-ka is a common word in the dataset>\n- daka-ka-ra | <reused patterns> | <daka-ka-ra is a common word in the dataset>\n- daka-ka-si | <reused patterns> | <daka-ka-si is a common word in the dataset>\n- naku-ka | <reused patterns> | <naku-ka is a common word in the dataset>\n- naku-ka-ra | <reused patterns> | <naku-ka-ra is a common word in the dataset>\n- naku-ka-si | <reused patterns> | <naku-ka-si is a common word in the dataset>\n- bogu-li | <reused patterns> | <bogu-li is a common word in the dataset>\n- notu-ka | <reused patterns> | <notu-ka is a common word",
+      "GENERATION_NOTES": "",
+      "UNCERTAINTIES": ""
+    }
+  },
+  {
+    "language_column": "language_E",
+    "rules_raw": "===LANGUAGE_COLUMN===\nlanguage_E\n\n===OBSERVED_UNITS===\n- madaka | noun | \n- matotonudaka | noun | \n- tadaka | noun | \n- manaku | noun | \n- lonaku | noun | \n- lobogu | noun | \n- mapelinotu | noun | \n- mapelikanoninotu | noun | \n- mapelitotoninotu | noun | \n- mapelinoturufila | verb | \n- mapelikanoninoturufila | verb | \n- mapelitotoninoturufila | verb | \n- mapelinotusesena | verb | \n- mapelikanoninotusesena | verb | \n- mapelitotoninotusesena | verb | \n- maufenunotu | noun | \n- maufenukanoninotu | noun | \n- maufenutotoninotu | noun | \n- maufenunoturufila | verb | \n- maufenukanoninoturufila | verb | \n- maufenutotoninoturufila | verb | \n- maufenunotusesena | verb | \n- maufenukanoninotusesena | verb | \n-",
+    "rules_parsed": {
+      "LANGUAGE_COLUMN": "language_E",
+      "OBSERVED_UNITS": "- madaka | noun | \n- matotonudaka | noun | \n- tadaka | noun | \n- manaku | noun | \n- lonaku | noun | \n- lobogu | noun | \n- mapelinotu | noun | \n- mapelikanoninotu | noun | \n- mapelitotoninotu | noun | \n- mapelinoturufila | verb | \n- mapelikanoninoturufila | verb | \n- mapelitotoninoturufila | verb | \n- mapelinotusesena | verb | \n- mapelikanoninotusesena | verb | \n- mapelitotoninotusesena | verb | \n- maufenunotu | noun | \n- maufenukanoninotu | noun | \n- maufenutotoninotu | noun | \n- maufenunoturufila | verb | \n- maufenukanoninoturufila | verb | \n- maufenutotoninoturufila | verb | \n- maufenunotusesena | verb | \n- maufenukanoninotusesena | verb | \n-",
+      "RULES_SUMMARY": "",
+      "CANDIDATE_MARKERS": "",
+      "TYPOLOGICAL_FEATURES": "",
+      "UNCERTAINTIES": ""
+    },
+    "type_raw": "===LANGUAGE_COLUMN===\nlanguage_E\n\n===PREDICTED_TYPE===\nagglutinative\n\n===CONFIDENCE===\nhigh\n\n===REASONING===\nThe forms in this column show clear segmentable parts with relatively stable functions, such as \"madaka\" and \"tadaka\". These parts can be combined into longer words like \"madakarufila\" and \"takanoninaku\", indicating agglutinative morphology.\n\n===SUPPORTING_PATTERNS===\n- madaka | shows a single root word\n- tadaka | shows a single root word\n- madakarufila | combines two roots\n- takanoninaku | combines two roots\n- matotonudaka | combines three roots\n- tatotonudaka | combines three roots\n- madakasesena | combines four roots\n- tatotonudakasesena | combines",
+    "type_parsed": {
+      "LANGUAGE_COLUMN": "language_E",
+      "PREDICTED_TYPE": "agglutinative",
+      "CONFIDENCE": "high",
+      "REASONING": "The forms in this column show clear segmentable parts with relatively stable functions, such as \"madaka\" and \"tadaka\". These parts can be combined into longer words like \"madakarufila\" and \"takanoninaku\", indicating agglutinative morphology.",
+      "SUPPORTING_PATTERNS": "- madaka | shows a single root word\n- tadaka | shows a single root word\n- madakarufila | combines two roots\n- takanoninaku | combines two roots\n- matotonudaka | combines three roots\n- tatotonudaka | combines three roots\n- madakasesena | combines four roots\n- tatotonudakasesena | combines",
+      "ALTERNATIVES": "",
+      "UNCERTAINTIES": ""
+    },
+    "generation_raw": "===LANGUAGE_COLUMN===\nlanguage_E\n\n===GENERATED_FORMS===\n- madakasesena | matotonudakasesena | matotonudakasesena is a plausible form as it combines the meaning of 'madaka' (to speak) with 'kasesena' (speech), suggesting a form related to speech production or articulation.\n- manakurufila | matotonudakarufila | matotonudakarufila is plausible as it combines 'manaku' (to speak) with 'karufila' (speech), indicating a form related to speech production or articulation.\n- madakanala | matotonudakanala | matotonudakanala is plausible as it combines 'madaka' (to speak) with 'kanala' (speech), suggesting a form related to speech production or articulation.\n\n===GENERATION_NOTES===\nThe generated forms are plausible because they maintain the structure of combining 'madaka' (to speak) with another word that could relate to speech production or articulation. The reused patterns are based on the existing",
+    "generation_parsed": {
+      "LANGUAGE_COLUMN": "language_E",
+      "GENERATED_FORMS": "- madakasesena | matotonudakasesena | matotonudakasesena is a plausible form as it combines the meaning of 'madaka' (to speak) with 'kasesena' (speech), suggesting a form related to speech production or articulation.\n- manakurufila | matotonudakarufila | matotonudakarufila is plausible as it combines 'manaku' (to speak) with 'karufila' (speech), indicating a form related to speech production or articulation.\n- madakanala | matotonudakanala | matotonudakanala is plausible as it combines 'madaka' (to speak) with 'kanala' (speech), suggesting a form related to speech production or articulation.",
+      "GENERATION_NOTES": "The generated forms are plausible because they maintain the structure of combining 'madaka' (to speak) with another word that could relate to speech production or articulation. The reused patterns are based on the existing",
+      "UNCERTAINTIES": ""
+    }
+  }
+]

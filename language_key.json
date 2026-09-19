@@ -1,0 +1,67 @@
+{
+  "language_A": {
+    "type": "isolating",
+    "description": "Free grammatical particles express tense, plurality and location; no prefixes or suffixes.",
+    "key_markers": {
+      "vek": "future particle",
+      "tun": "past particle",
+      "nul": "plural particle",
+      "du": "to/allative particle",
+      "ri": "into/illative particle",
+      "na": "in/locative particle"
+    }
+  },
+  "language_B": {
+    "type": "analytic",
+    "description": "Auxiliary-like words express tense; plurality is expressed through a classifier-like word before nouns.",
+    "key_markers": {
+      "zo": "future auxiliary",
+      "ki": "past auxiliary",
+      "enu": "plural classifier",
+      "mu": "to/allative adposition",
+      "nel": "into/illative adposition",
+      "sha": "in/locative adposition"
+    }
+  },
+  "language_C": {
+    "type": "fusional prefixing",
+    "description": "Single prefixes fuse person and tense; the same tense has different prefixes depending on subject.",
+    "key_markers": {
+      "me/ti/na": "present prefixes fused with person",
+      "uk/ot/ev": "past prefixes fused with person",
+      "ar/el/or": "future prefixes fused with person",
+      "esh/um/ai/ok/ir": "noun-class-sensitive plural endings",
+      "dra": "to/allative marker",
+      "vren": "into/illative marker",
+      "nim": "in/locative marker"
+    }
+  },
+  "language_D": {
+    "type": "agglutinative suffixing",
+    "description": "Transparent suffix chains: each suffix corresponds to one stable grammatical function.",
+    "key_markers": {
+      "ka": "first-person suffix",
+      "tu": "second-person suffix",
+      "li": "third-person suffix",
+      "ra": "future suffix",
+      "si": "past suffix",
+      "min": "plural suffix",
+      "mu": "to/allative case suffix",
+      "nun": "into/illative case suffix",
+      "ne": "in/locative case suffix"
+    }
+  },
+  "language_E": {
+    "type": "polysynthetic mixed",
+    "description": "Subject prefixes, incorporated nouns/locations and tense suffixes combine into one complex predicate word.",
+    "key_markers": {
+      "ma/ta/lo": "subject prefixes",
+      "ru": "future suffix inside predicate",
+      "se": "past suffix inside predicate",
+      "it": "plural suffix on incorporated noun",
+      "mo": "to/allative incorporated locative",
+      "nu": "into/illative incorporated locative",
+      "ni": "in/locative incorporated locative"
+    }
+  }
+}

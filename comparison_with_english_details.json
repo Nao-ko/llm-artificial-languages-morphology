@@ -1,0 +1,2004 @@
+{
+  "language_A": {
+    "true_type": "isolating",
+    "predicted_type": "agglutinative",
+    "type_correct": 0,
+    "marker_details": {
+      "future": {
+        "expected": [
+          "vek"
+        ],
+        "found": [
+          "vek"
+        ],
+        "category_hit": 1
+      },
+      "past": {
+        "expected": [
+          "tun"
+        ],
+        "found": [
+          "tun"
+        ],
+        "category_hit": 1
+      },
+      "plural": {
+        "expected": [
+          "nul"
+        ],
+        "found": [],
+        "category_hit": 0
+      },
+      "location_to": {
+        "expected": [
+          "du"
+        ],
+        "found": [
+          "du"
+        ],
+        "category_hit": 1
+      },
+      "location_into": {
+        "expected": [
+          "ri"
+        ],
+        "found": [
+          "ri"
+        ],
+        "category_hit": 1
+      },
+      "location_in": {
+        "expected": [
+          "na"
+        ],
+        "found": [
+          "na"
+        ],
+        "category_hit": 1
+      },
+      "subject_pronouns": {
+        "expected": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "found": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "category_hit": 1
+      },
+      "copula_or_predication": {
+        "expected": [
+          "ge"
+        ],
+        "found": [
+          "ge"
+        ],
+        "category_hit": 1
+      },
+      "clause_linking": {
+        "expected": [
+          "ka"
+        ],
+        "found": [
+          "ka"
+        ],
+        "category_hit": 1
+      },
+      "intensifier": {
+        "expected": [
+          "po"
+        ],
+        "found": [
+          "po"
+        ],
+        "category_hit": 1
+      }
+    },
+    "function_details": {
+      "vek": {
+        "expected_functions": [
+          "future"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "future"
+        ],
+        "function_hit": 1
+      },
+      "tun": {
+        "expected_functions": [
+          "past"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "past"
+        ],
+        "function_hit": 1
+      },
+      "nul": {
+        "expected_functions": [
+          "plural"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "du": {
+        "expected_functions": [
+          "to",
+          "allative",
+          "destination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "to"
+        ],
+        "function_hit": 1
+      },
+      "ri": {
+        "expected_functions": [
+          "into",
+          "illative"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "into"
+        ],
+        "function_hit": 1
+      },
+      "na": {
+        "expected_functions": [
+          "in",
+          "locative"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "in"
+        ],
+        "function_hit": 1
+      },
+      "ma": {
+        "expected_functions": [
+          "i",
+          "first person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "i"
+        ],
+        "function_hit": 1
+      },
+      "ta": {
+        "expected_functions": [
+          "you",
+          "second person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "you"
+        ],
+        "function_hit": 1
+      },
+      "lo": {
+        "expected_functions": [
+          "he",
+          "it",
+          "third person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "he",
+          "it"
+        ],
+        "function_hit": 1
+      },
+      "ge": {
+        "expected_functions": [
+          "be",
+          "copula",
+          "predication"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ka": {
+        "expected_functions": [
+          "because",
+          "clause linking",
+          "subordination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "po": {
+        "expected_functions": [
+          "very",
+          "intensifier"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      }
+    },
+    "feature_details": {
+      "morphological_type": {
+        "expected": "isolating",
+        "keywords_checked": [
+          "isolating",
+          "separate",
+          "free",
+          "particle"
+        ],
+        "matched": 0
+      },
+      "word_structure": {
+        "expected": "free words",
+        "keywords_checked": [
+          "free",
+          "separate",
+          "word"
+        ],
+        "matched": 0
+      },
+      "tense_marking": {
+        "expected": "free particles",
+        "keywords_checked": [
+          "particle",
+          "free",
+          "separate"
+        ],
+        "matched": 0
+      },
+      "plural_marking": {
+        "expected": "free particle",
+        "keywords_checked": [
+          "particle",
+          "free",
+          "separate"
+        ],
+        "matched": 0
+      },
+      "location_marking": {
+        "expected": "free particles",
+        "keywords_checked": [
+          "particle",
+          "free",
+          "separate"
+        ],
+        "matched": 0
+      },
+      "affixation": {
+        "expected": "no affixes",
+        "keywords_checked": [
+          "no affix",
+          "no prefixes",
+          "no suffixes",
+          "no affixes"
+        ],
+        "matched": 0
+      },
+      "incorporation": {
+        "expected": false,
+        "keywords_checked": [
+          "no incorporation",
+          "not incorporated",
+          "separate",
+          "free"
+        ],
+        "matched": 0
+      }
+    },
+    "generation_details": {
+      "item_1": {
+        "meaning": "i go",
+        "form": "ma daka",
+        "checks": {},
+        "valid": 0
+      },
+      "item_2": {
+        "meaning": "i go to the city",
+        "form": "ma daka du kano",
+        "checks": {
+          "location_to_du": 1
+        },
+        "valid": 1
+      },
+      "item_3": {
+        "meaning": "i go into the house",
+        "form": "ma daka ri toto",
+        "checks": {
+          "location_into_ri": 1
+        },
+        "valid": 1
+      },
+      "item_4": {
+        "meaning": "i will go tomorrow",
+        "form": "fila ma vek daka",
+        "checks": {
+          "future_vek": 1
+        },
+        "valid": 1
+      },
+      "item_5": {
+        "meaning": "i will go to the city tomorrow",
+        "form": "fila ma vek daka du kano",
+        "checks": {
+          "future_vek": 1,
+          "location_to_du": 1
+        },
+        "valid": 1
+      },
+      "item_6": {
+        "meaning": "i will go into the house tomorrow",
+        "form": "fila ma vek daka ri toto",
+        "checks": {
+          "future_vek": 1,
+          "location_into_ri": 1
+        },
+        "valid": 1
+      },
+      "item_7": {
+        "meaning": "i went yesterday",
+        "form": "sena ma tun daka",
+        "checks": {
+          "past_tun": 1
+        },
+        "valid": 1
+      },
+      "item_8": {
+        "meaning": "i went to the city yesterday",
+        "form": "sena ma tun daka du kano",
+        "checks": {
+          "past_tun": 1,
+          "location_to_du": 1
+        },
+        "valid": 1
+      },
+      "item_9": {
+        "meaning": "i went into the house yesterday",
+        "form": "sena ma tun daka ri toto",
+        "checks": {
+          "past_tun": 1,
+          "location_into_ri": 1
+        },
+        "valid": 1
+      }
+    },
+    "generated_forms": [
+      {
+        "form": "ma daka",
+        "meaning": "I go"
+      },
+      {
+        "form": "ma daka du kano",
+        "meaning": "I go to the city"
+      },
+      {
+        "form": "ma daka ri toto",
+        "meaning": "I go into the house"
+      },
+      {
+        "form": "fila ma vek daka",
+        "meaning": "I will go tomorrow"
+      },
+      {
+        "form": "fila ma vek daka du kano",
+        "meaning": "I will go to the city tomorrow"
+      },
+      {
+        "form": "fila ma vek daka ri toto",
+        "meaning": "I will go into the house tomorrow"
+      },
+      {
+        "form": "sena ma tun daka",
+        "meaning": "I went yesterday"
+      },
+      {
+        "form": "sena ma tun daka du kano",
+        "meaning": "I went to the city yesterday"
+      },
+      {
+        "form": "sena ma tun daka ri toto",
+        "meaning": "I went into the house yesterday"
+      }
+    ],
+    "rules_text": "LANGUAGE_COLUMN: language_A\nOBSERVED_UNITS: - I go. | first-person singular present | ma daka\n- I go to the city. | first-person singular present | ma daka du kano\n- I go into the house. | first-person singular present | ma daka ri toto\n- I will go tomorrow. | first-person singular future | fila ma vek daka\n- I will go to the city tomorrow. | first-person singular future | fila ma vek daka du kano\n- I will go into the house tomorrow. | first-person singular future | fila ma vek daka ri toto\n- I went yesterday. | first-person singular past | sena ma tun daka\n- I went to the city yesterday. | first-person singular past | sena ma tun daka du kano\n- I went into the house yesterday. | first-person singular past | sena ma tun daka ri toto\n- I go here. | first-person singular present | ma daka nala\n- You go. | second-person singular present | ta daka\n- You go to the city. | second-person singular present | ta daka du kano\n- You go into the house.\nRULES_SUMMARY: \nCANDIDATE_MARKERS: \nTYPOLOGICAL_FEATURES: \nUNCERTAINTIES: ",
+    "type_text": "LANGUAGE_COLUMN: language_A\nPREDICTED_TYPE: agglutinative\nCONFIDENCE: high\nREASONING: The column shows agglutinative features such as suffixes like -daka, -du, -ri, -na, -vek, -na, -tun, -naku, -na, -vek, -na, -tun, -naku, -na, -tun, -naku, -na, -tun, -naku, -na, -tun, -naku, -na, -tun, -naku, -na, -tun, -naku, -na, -tun, -naku, -na, -tun, -naku, -na, -tun, -naku,\nSUPPORTING_PATTERNS: \nALTERNATIVES: \nUNCERTAINTIES: ",
+    "generation_text": "LANGUAGE_COLUMN: language_A\nGENERATED_FORMS: - ma daka | ma daka | I go\n- ma daka du kano | ma daka du kano | I go to the city\n- ma daka ri toto | ma daka ri toto | I go into the house\n- fila ma vek daka | fila ma vek daka | I will go tomorrow\n- fila ma vek daka du kano | fila ma vek daka du kano | I will go to the city tomorrow\n- fila ma vek daka ri toto | fila ma vek daka ri toto | I will go into the house tomorrow\n- sena ma tun daka | sena ma tun daka | I went yesterday\n- sena ma tun daka du kano | sena ma tun daka du kano | I went to the city yesterday\n- sena ma tun daka ri toto | sena ma tun daka ri toto | I went into the house yesterday\nGENERATION_NOTES: \nUNCERTAINTIES: "
+  },
+  "language_B": {
+    "true_type": "analytic",
+    "predicted_type": "agglutinative",
+    "type_correct": 0,
+    "marker_details": {
+      "future": {
+        "expected": [
+          "zo"
+        ],
+        "found": [
+          "zo"
+        ],
+        "category_hit": 1
+      },
+      "past": {
+        "expected": [
+          "ki"
+        ],
+        "found": [
+          "ki"
+        ],
+        "category_hit": 1
+      },
+      "plural": {
+        "expected": [
+          "enu"
+        ],
+        "found": [],
+        "category_hit": 0
+      },
+      "location_to": {
+        "expected": [
+          "mu"
+        ],
+        "found": [
+          "mu"
+        ],
+        "category_hit": 1
+      },
+      "location_into": {
+        "expected": [
+          "nel"
+        ],
+        "found": [
+          "nel"
+        ],
+        "category_hit": 1
+      },
+      "location_in": {
+        "expected": [
+          "sha"
+        ],
+        "found": [
+          "sha"
+        ],
+        "category_hit": 1
+      },
+      "subject_pronouns": {
+        "expected": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "found": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "category_hit": 1
+      },
+      "copula_or_predication": {
+        "expected": [
+          "ge"
+        ],
+        "found": [
+          "ge"
+        ],
+        "category_hit": 1
+      },
+      "clause_linking": {
+        "expected": [
+          "ka"
+        ],
+        "found": [
+          "ka"
+        ],
+        "category_hit": 1
+      },
+      "intensifier": {
+        "expected": [
+          "po"
+        ],
+        "found": [
+          "po"
+        ],
+        "category_hit": 1
+      }
+    },
+    "function_details": {
+      "zo": {
+        "expected_functions": [
+          "future",
+          "auxiliary"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "future"
+        ],
+        "function_hit": 1
+      },
+      "ki": {
+        "expected_functions": [
+          "past",
+          "auxiliary"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "past"
+        ],
+        "function_hit": 1
+      },
+      "enu": {
+        "expected_functions": [
+          "plural",
+          "classifier"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "mu": {
+        "expected_functions": [
+          "to",
+          "allative",
+          "destination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "to"
+        ],
+        "function_hit": 1
+      },
+      "nel": {
+        "expected_functions": [
+          "into",
+          "illative"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "into"
+        ],
+        "function_hit": 1
+      },
+      "sha": {
+        "expected_functions": [
+          "in",
+          "locative"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ma": {
+        "expected_functions": [
+          "i",
+          "first person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "i"
+        ],
+        "function_hit": 1
+      },
+      "ta": {
+        "expected_functions": [
+          "you",
+          "second person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "you"
+        ],
+        "function_hit": 1
+      },
+      "lo": {
+        "expected_functions": [
+          "he",
+          "it",
+          "third person",
+          "subject",
+          "pronoun"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "he",
+          "it"
+        ],
+        "function_hit": 1
+      },
+      "ge": {
+        "expected_functions": [
+          "be",
+          "copula",
+          "predication"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ka": {
+        "expected_functions": [
+          "because",
+          "clause linking",
+          "subordination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "po": {
+        "expected_functions": [
+          "very",
+          "intensifier"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      }
+    },
+    "feature_details": {
+      "morphological_type": {
+        "expected": "analytic",
+        "keywords_checked": [
+          "analytic",
+          "auxiliary",
+          "classifier",
+          "free word"
+        ],
+        "matched": 0
+      },
+      "word_structure": {
+        "expected": "free words",
+        "keywords_checked": [
+          "free",
+          "separate",
+          "word"
+        ],
+        "matched": 1
+      },
+      "tense_marking": {
+        "expected": "auxiliaries",
+        "keywords_checked": [
+          "auxiliary",
+          "auxiliaries"
+        ],
+        "matched": 0
+      },
+      "plural_marking": {
+        "expected": "classifier",
+        "keywords_checked": [
+          "classifier"
+        ],
+        "matched": 0
+      },
+      "location_marking": {
+        "expected": "adpositions",
+        "keywords_checked": [
+          "adposition",
+          "preposition",
+          "postposition"
+        ],
+        "matched": 0
+      },
+      "affixation": {
+        "expected": "low inflection",
+        "keywords_checked": [
+          "low inflection",
+          "little morphology",
+          "low morphology"
+        ],
+        "matched": 0
+      },
+      "incorporation": {
+        "expected": false,
+        "keywords_checked": [
+          "no incorporation",
+          "not incorporated",
+          "separate",
+          "free"
+        ],
+        "matched": 0
+      }
+    },
+    "generation_details": {
+      "item_1": {
+        "meaning": "i will go to the city tomorrow",
+        "form": "ma zo daka mu kano fila",
+        "checks": {
+          "future_zo": 1,
+          "location_to_mu": 1
+        },
+        "valid": 1
+      },
+      "item_2": {
+        "meaning": "he will go to the city tomorrow",
+        "form": "lo zo daka mu kano fila",
+        "checks": {
+          "future_zo": 1,
+          "location_to_mu": 1
+        },
+        "valid": 1
+      },
+      "item_3": {
+        "meaning": "he will cry in the city tomorrow",
+        "form": "lo zo naku sha kano fila",
+        "checks": {
+          "future_zo": 1,
+          "location_in_sha": 1
+        },
+        "valid": 1
+      },
+      "item_4": {
+        "meaning": "he will eat food in the city tomorrow",
+        "form": "lo zo notu peli sha kano fila",
+        "checks": {
+          "future_zo": 1,
+          "location_in_sha": 1
+        },
+        "valid": 1
+      },
+      "item_5": {
+        "meaning": "he will eat the meal in the city tomorrow",
+        "form": "lo zo dovu sha kano fila",
+        "checks": {
+          "future_zo": 1,
+          "location_in_sha": 1
+        },
+        "valid": 1
+      }
+    },
+    "generated_forms": [
+      {
+        "form": "ma zo daka mu kano fila",
+        "meaning": "I will go to the city tomorrow"
+      },
+      {
+        "form": "lo zo daka mu kano fila",
+        "meaning": "He will go to the city tomorrow"
+      },
+      {
+        "form": "lo zo naku sha kano fila",
+        "meaning": "He will cry in the city tomorrow"
+      },
+      {
+        "form": "lo zo notu peli sha kano fila",
+        "meaning": "He will eat food in the city tomorrow"
+      },
+      {
+        "form": "lo zo dovu sha kano fila",
+        "meaning": "He will eat the meal in the city tomorrow"
+      }
+    ],
+    "rules_text": "LANGUAGE_COLUMN: language_B\nOBSERVED_UNITS: - I go. | first-person singular present | ma daka\n- I go to the city. | first-person singular present | ma daka mu kano\n- I go into the house. | first-person singular present | ma daka nel toto\n- I will go tomorrow. | first-person singular future | ma zo daka fila\n- I will go to the city tomorrow. | first-person singular future | ma zo daka mu kano fila\n- I will go into the house tomorrow. | first-person singular future | ma zo daka nel toto fila\n- I went yesterday. | first-person singular past | ma ki daka sena\n- I went to the city yesterday. | first-person singular past | ma ki daka mu kano sena\n- I went into the house yesterday. | first-person singular past | ma ki daka nel toto sena\n- I go here. | first-person singular present | ma daka nala\n- You go. | second-person singular present | ta daka\n- You go to the city. | second-person singular present | ta daka mu kano\n- You go into the house. | second-person\nRULES_SUMMARY: \nCANDIDATE_MARKERS: \nTYPOLOGICAL_FEATURES: \nUNCERTAINTIES: ",
+    "type_text": "LANGUAGE_COLUMN: language_B\nPREDICTED_TYPE: agglutinative\nCONFIDENCE: high\nREASONING: The column shows agglutinative features such as suffixes like \"-ka\" (go), \"-mu\" (to), \"-toto\" (into), and \"-sena\" (yesterday). These suffixes are added to the base form without changing its meaning, indicating agglutination. The presence of multiple suffixes per word and their predictable addition to the base form supports this classification.\nSUPPORTING_PATTERNS: - -ka | Suffix added to the base form \"I go\"\n- -mu | Suffix added to the base form \"I go to the city\"\n- -toto | Suffix added to the base form \"I go into the house\"\n- -sena | S\nALTERNATIVES: \nUNCERTAINTIES: ",
+    "generation_text": "LANGUAGE_COLUMN: language_B\nGENERATED_FORMS: - ma zo daka mu kano fila | ma zo daka mu kano | I will go to the city tomorrow\n- lo zo daka mu kano fila | lo zo daka mu kano | He will go to the city tomorrow\n- lo zo naku sha kano fila | lo zo naku sha kano | He will cry in the city tomorrow\n- lo zo notu peli sha kano fila | lo zo notu peli sha kano | He will eat food in the city tomorrow\n- lo zo dovu sha kano fila | lo zo dovu sha kano | He will eat the meal in the city tomorrow\nGENERATION_NOTES: The forms are generated based on the visible patterns and their corresponding meanings. The task is to create new plausible forms using only the visible material and combinations that are supported by both the forms and the translation correspondences.\nUNCERTAINTIES: - Uncertain: The generation notes are sufficient to explain the plausible forms without"
+  },
+  "language_C": {
+    "true_type": "fusional",
+    "predicted_type": "agglutinative",
+    "type_correct": 0,
+    "marker_details": {
+      "present_prefixes": {
+        "expected": [
+          "me",
+          "ti",
+          "na"
+        ],
+        "found": [
+          "me",
+          "ti",
+          "na"
+        ],
+        "category_hit": 1
+      },
+      "past_prefixes": {
+        "expected": [
+          "uk",
+          "ot",
+          "ev"
+        ],
+        "found": [
+          "uk",
+          "ot",
+          "ev"
+        ],
+        "category_hit": 1
+      },
+      "future_prefixes": {
+        "expected": [
+          "ar",
+          "el",
+          "or"
+        ],
+        "found": [
+          "ar",
+          "or"
+        ],
+        "category_hit": 1
+      },
+      "plural_classes": {
+        "expected": [
+          "esh",
+          "um",
+          "ai",
+          "ok",
+          "ir"
+        ],
+        "found": [
+          "um",
+          "ai"
+        ],
+        "category_hit": 1
+      },
+      "location_to": {
+        "expected": [
+          "dra"
+        ],
+        "found": [
+          "dra"
+        ],
+        "category_hit": 1
+      },
+      "location_into": {
+        "expected": [
+          "vren"
+        ],
+        "found": [
+          "vren"
+        ],
+        "category_hit": 1
+      },
+      "location_in": {
+        "expected": [
+          "nim"
+        ],
+        "found": [
+          "nim"
+        ],
+        "category_hit": 1
+      },
+      "clause_linking": {
+        "expected": [
+          "ka"
+        ],
+        "found": [
+          "ka"
+        ],
+        "category_hit": 1
+      },
+      "intensifier": {
+        "expected": [
+          "po"
+        ],
+        "found": [
+          "po"
+        ],
+        "category_hit": 1
+      }
+    },
+    "function_details": {
+      "me": {
+        "expected_functions": [
+          "present",
+          "first person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ti": {
+        "expected_functions": [
+          "present",
+          "second person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "na": {
+        "expected_functions": [
+          "present",
+          "third person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "uk": {
+        "expected_functions": [
+          "past",
+          "first person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ot": {
+        "expected_functions": [
+          "past",
+          "second person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ev": {
+        "expected_functions": [
+          "past",
+          "third person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ar": {
+        "expected_functions": [
+          "future",
+          "first person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "el": {
+        "expected_functions": [
+          "future",
+          "second person",
+          "prefix"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "or": {
+        "expected_functions": [
+          "future",
+          "third person",
+          "prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "dra": {
+        "expected_functions": [
+          "to",
+          "allative",
+          "destination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "to"
+        ],
+        "function_hit": 1
+      },
+      "vren": {
+        "expected_functions": [
+          "into",
+          "illative"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "into"
+        ],
+        "function_hit": 1
+      },
+      "nim": {
+        "expected_functions": [
+          "in",
+          "locative"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ka": {
+        "expected_functions": [
+          "because",
+          "clause linking",
+          "subordination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "po": {
+        "expected_functions": [
+          "very",
+          "intensifier"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      }
+    },
+    "feature_details": {
+      "morphological_type": {
+        "expected": "fusional",
+        "keywords_checked": [
+          "fusional",
+          "fused",
+          "fusion",
+          "single prefix",
+          "person-tense"
+        ],
+        "matched": 0
+      },
+      "word_structure": {
+        "expected": "fused prefix",
+        "keywords_checked": [
+          "prefix",
+          "fused",
+          "fusion"
+        ],
+        "matched": 0
+      },
+      "tense_marking": {
+        "expected": "person-tense fusion",
+        "keywords_checked": [
+          "person",
+          "tense",
+          "fused",
+          "fusion"
+        ],
+        "matched": 0
+      },
+      "subject_marking": {
+        "expected": "fused with tense",
+        "keywords_checked": [
+          "person",
+          "tense",
+          "fused"
+        ],
+        "matched": 0
+      },
+      "plural_marking": {
+        "expected": "noun class plural",
+        "keywords_checked": [
+          "plural",
+          "class"
+        ],
+        "matched": 0
+      },
+      "location_marking": {
+        "expected": "free markers",
+        "keywords_checked": [
+          "free markers"
+        ],
+        "matched": 0
+      },
+      "affixation": {
+        "expected": "prefixing",
+        "keywords_checked": [
+          "prefix",
+          "prefixing"
+        ],
+        "matched": 0
+      },
+      "incorporation": {
+        "expected": false,
+        "keywords_checked": [
+          "no incorporation",
+          "not incorporated",
+          "separate",
+          "free"
+        ],
+        "matched": 0
+      }
+    },
+    "generation_details": {
+      "item_1": {
+        "meaning": "i go here",
+        "form": "medaka nala",
+        "checks": {},
+        "valid": 0
+      },
+      "item_2": {
+        "meaning": "i will go tomorrow",
+        "form": "ardaka fila",
+        "checks": {
+          "future_prefix": 1
+        },
+        "valid": 1
+      },
+      "item_3": {
+        "meaning": "i went yesterday",
+        "form": "ukdaka sena",
+        "checks": {
+          "past_prefix": 1
+        },
+        "valid": 1
+      },
+      "item_4": {
+        "meaning": "he goes here",
+        "form": "nadaka nala",
+        "checks": {},
+        "valid": 0
+      },
+      "item_5": {
+        "meaning": "you cry here",
+        "form": "menaku nala",
+        "checks": {},
+        "valid": 0
+      },
+      "item_6": {
+        "meaning": "he cries here",
+        "form": "nanaku nala",
+        "checks": {},
+        "valid": 0
+      },
+      "item_7": {
+        "meaning": "he will cry tomorrow",
+        "form": "ornaku fila",
+        "checks": {
+          "future_prefix": 1
+        },
+        "valid": 1
+      },
+      "item_8": {
+        "meaning": "he cried yesterday",
+        "form": "evnaku sena",
+        "checks": {
+          "past_prefix": 1
+        },
+        "valid": 1
+      },
+      "item_9": {
+        "meaning": "i go to the city",
+        "form": "medaka dra kano",
+        "checks": {
+          "location_to_dra": 1
+        },
+        "valid": 1
+      },
+      "item_10": {
+        "meaning": "i will go to the city tomorrow",
+        "form": "ardaka dra kano fila",
+        "checks": {
+          "future_prefix": 1,
+          "location_to_dra": 1
+        },
+        "valid": 1
+      },
+      "item_11": {
+        "meaning": "i went to the city yesterday",
+        "form": "otdaka sena",
+        "checks": {
+          "past_prefix": 1,
+          "location_to_dra": 0
+        },
+        "valid": 0
+      },
+      "item_12": {
+        "meaning": "he goes to the city here",
+        "form": "nadaka dra kano nala",
+        "checks": {
+          "location_to_dra": 1
+        },
+        "valid": 1
+      },
+      "item_13": {
+        "meaning": "you cry in the city here",
+        "form": "menaku nim kano nala",
+        "checks": {
+          "location_in_nim": 1
+        },
+        "valid": 1
+      },
+      "item_14": {
+        "meaning": "",
+        "form": "nanaku nim kano",
+        "checks": {},
+        "valid": 0
+      }
+    },
+    "generated_forms": [
+      {
+        "form": "medaka nala",
+        "meaning": "I go here"
+      },
+      {
+        "form": "ardaka fila",
+        "meaning": "I will go tomorrow"
+      },
+      {
+        "form": "ukdaka sena",
+        "meaning": "I went yesterday"
+      },
+      {
+        "form": "nadaka nala",
+        "meaning": "He goes here"
+      },
+      {
+        "form": "menaku nala",
+        "meaning": "You cry here"
+      },
+      {
+        "form": "nanaku nala",
+        "meaning": "He cries here"
+      },
+      {
+        "form": "ornaku fila",
+        "meaning": "He will cry tomorrow"
+      },
+      {
+        "form": "evnaku sena",
+        "meaning": "He cried yesterday"
+      },
+      {
+        "form": "medaka dra kano",
+        "meaning": "I go to the city"
+      },
+      {
+        "form": "ardaka dra kano fila",
+        "meaning": "I will go to the city tomorrow"
+      },
+      {
+        "form": "otdaka sena",
+        "meaning": "I went to the city yesterday"
+      },
+      {
+        "form": "nadaka dra kano nala",
+        "meaning": "He goes to the city here"
+      },
+      {
+        "form": "menaku nim kano nala",
+        "meaning": "You cry in the city here"
+      },
+      {
+        "form": "nanaku nim kano",
+        "meaning": ""
+      }
+    ],
+    "rules_text": "LANGUAGE_COLUMN: language_C\nOBSERVED_UNITS: - medaka | verb | I go\n- dra kano | preposition + noun phrase | I go to the city\n- vren toto | preposition + noun phrase | I go into the house\n- ardaka | verb | I will go\n- dra kano fila | preposition + noun phrase + verb | I will go to the city\n- vren toto fila | preposition + noun phrase + verb | I will go into the house\n- ukdaka | verb | I went\n- sena | time marker | yesterday\n- tiddaka | verb | You go\n- dra kano | preposition + noun phrase | You go to the city\n- vren toto | preposition + noun phrase | You go into the house\n- ordaka | verb | You will go\n- dra kano fila | preposition + noun phrase + verb | You will go to the city\n- vren toto fila | preposition + noun phrase + verb | You will go into the house\n- evdaka | verb | I went\n- sena | time marker | yesterday\n- otdaka | verb | You went\n- sena |\nRULES_SUMMARY: \nCANDIDATE_MARKERS: \nTYPOLOGICAL_FEATURES: \nUNCERTAINTIES: ",
+    "type_text": "LANGUAGE_COLUMN: language_C\nPREDICTED_TYPE: agglutinative\nCONFIDENCE: high\nREASONING: The column shows agglutinative features such as suffixes like -kano, -sena, -toto, and -sena, which indicate that words are built up from smaller units (roots) through the addition of suffixes. This pattern is characteristic of agglutinative languages.\nSUPPORTING_PATTERNS: - medaka dra kano | indicates a compound word formed by adding a suffix to a root\n- ardkaka fila | indicates a compound word formed by adding a suffix to a root\n- ukdaka sena | indicates a compound word formed by adding a suffix to a root\n- otdaka sena | indicates a compound word formed by adding a suffix to a\nALTERNATIVES: \nUNCERTAINTIES: ",
+    "generation_text": "LANGUAGE_COLUMN: language_C\nGENERATED_FORMS: - medaka nala | medaka | I go here\n- ardaka fila | ardaka | I will go tomorrow\n- ukdaka sena | ukdaka | I went yesterday\n- nadaka nala | nadaka | He goes here\n- menaku nala | menaku | You cry here\n- nanaku nala | nanaku | He cries here\n- ornaku fila | ornaku | He will cry tomorrow\n- evnaku sena | evnaku | He cried yesterday\n- medaka dra kano | medaka | I go to the city\n- ardaka dra kano fila | ardaka | I will go to the city tomorrow\n- otdaka sena | otdaka | I went to the city yesterday\n- nadaka dra kano nala | nadaka | He goes to the city here\n- menaku nim kano nala | menaku | You cry in the city here\n- nanaku nim kano\nGENERATION_NOTES: \nUNCERTAINTIES: "
+  },
+  "language_D": {
+    "true_type": "agglutinative",
+    "predicted_type": "agglutinative",
+    "type_correct": 1,
+    "marker_details": {
+      "person": {
+        "expected": [
+          "ka",
+          "tu",
+          "li"
+        ],
+        "found": [
+          "ka",
+          "tu",
+          "li"
+        ],
+        "category_hit": 1
+      },
+      "future": {
+        "expected": [
+          "ra"
+        ],
+        "found": [
+          "ra"
+        ],
+        "category_hit": 1
+      },
+      "past": {
+        "expected": [
+          "si"
+        ],
+        "found": [
+          "si"
+        ],
+        "category_hit": 1
+      },
+      "plural": {
+        "expected": [
+          "min"
+        ],
+        "found": [],
+        "category_hit": 0
+      },
+      "location_to": {
+        "expected": [
+          "mu"
+        ],
+        "found": [
+          "mu"
+        ],
+        "category_hit": 1
+      },
+      "location_into": {
+        "expected": [
+          "nun"
+        ],
+        "found": [],
+        "category_hit": 0
+      },
+      "location_in": {
+        "expected": [
+          "ne"
+        ],
+        "found": [
+          "ne"
+        ],
+        "category_hit": 1
+      },
+      "clause_linking": {
+        "expected": [
+          "ka"
+        ],
+        "found": [
+          "ka"
+        ],
+        "category_hit": 1
+      },
+      "intensifier": {
+        "expected": [
+          "po"
+        ],
+        "found": [
+          "po"
+        ],
+        "category_hit": 1
+      }
+    },
+    "function_details": {
+      "ka": {
+        "expected_functions": [
+          "first person",
+          "i",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "i",
+          "suffix"
+        ],
+        "function_hit": 1
+      },
+      "tu": {
+        "expected_functions": [
+          "second person",
+          "you",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "you",
+          "suffix"
+        ],
+        "function_hit": 1
+      },
+      "li": {
+        "expected_functions": [
+          "third person",
+          "he",
+          "it",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "he",
+          "it",
+          "suffix"
+        ],
+        "function_hit": 1
+      },
+      "ra": {
+        "expected_functions": [
+          "future",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "future",
+          "suffix"
+        ],
+        "function_hit": 1
+      },
+      "si": {
+        "expected_functions": [
+          "past",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "past",
+          "suffix"
+        ],
+        "function_hit": 1
+      },
+      "min": {
+        "expected_functions": [
+          "plural",
+          "suffix"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "mu": {
+        "expected_functions": [
+          "to",
+          "allative",
+          "case suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "to"
+        ],
+        "function_hit": 1
+      },
+      "nun": {
+        "expected_functions": [
+          "into",
+          "illative",
+          "case suffix"
+        ],
+        "marker_present": 0,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "ne": {
+        "expected_functions": [
+          "in",
+          "locative",
+          "case suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "in"
+        ],
+        "function_hit": 1
+      },
+      "po": {
+        "expected_functions": [
+          "very",
+          "intensifier"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      }
+    },
+    "feature_details": {
+      "morphological_type": {
+        "expected": "agglutinative",
+        "keywords_checked": [
+          "agglutinative",
+          "suffix",
+          "segmentable",
+          "transparent"
+        ],
+        "matched": 1
+      },
+      "word_structure": {
+        "expected": "suffix chain",
+        "keywords_checked": [
+          "suffix",
+          "chain",
+          "agglutinative",
+          "segmentable"
+        ],
+        "matched": 1
+      },
+      "tense_marking": {
+        "expected": "suffixes",
+        "keywords_checked": [
+          "suffix",
+          "suffixes"
+        ],
+        "matched": 1
+      },
+      "subject_marking": {
+        "expected": "suffix on verb",
+        "keywords_checked": [
+          "suffix",
+          "verb"
+        ],
+        "matched": 1
+      },
+      "plural_marking": {
+        "expected": "suffix",
+        "keywords_checked": [
+          "suffix"
+        ],
+        "matched": 1
+      },
+      "location_marking": {
+        "expected": "case suffixes",
+        "keywords_checked": [
+          "case",
+          "suffix"
+        ],
+        "matched": 1
+      },
+      "affixation": {
+        "expected": "suffixing",
+        "keywords_checked": [
+          "suffix",
+          "suffixing"
+        ],
+        "matched": 1
+      },
+      "incorporation": {
+        "expected": false,
+        "keywords_checked": [
+          "no incorporation",
+          "not incorporated",
+          "separate",
+          "free"
+        ],
+        "matched": 0
+      }
+    },
+    "generation_details": {
+      "item_1": {
+        "meaning": "daka-ka is a verb indicating action, similar to \"go\" in english.",
+        "form": "daka-ka",
+        "checks": {},
+        "valid": 0
+      },
+      "item_2": {
+        "meaning": "daka-ka-ra indicates future tense, similar to \"will go\" in english.",
+        "form": "daka-ka-ra",
+        "checks": {
+          "future_ra": 1
+        },
+        "valid": 1
+      },
+      "item_3": {
+        "meaning": "daka-ka-si indicates past tense, similar to \"went\" in english.",
+        "form": "daka-ka-si",
+        "checks": {
+          "past_si": 1
+        },
+        "valid": 1
+      },
+      "item_4": {
+        "meaning": "daka-tu indicates first person singular, similar to \"i\" in english.",
+        "form": "daka-tu",
+        "checks": {},
+        "valid": 0
+      },
+      "item_5": {
+        "meaning": "daka-tu-si indicates past first person singular, similar to \"i went\" in english.",
+        "form": "daka-tu-si",
+        "checks": {
+          "past_si": 1
+        },
+        "valid": 1
+      },
+      "item_6": {
+        "meaning": "daka-li indicates third person singular, similar to \"he\" in english.",
+        "form": "daka-li",
+        "checks": {},
+        "valid": 0
+      },
+      "item_7": {
+        "meaning": "daka-li-si indicates past third person singular, similar",
+        "form": "daka-li-si",
+        "checks": {},
+        "valid": 0
+      }
+    },
+    "generated_forms": [
+      {
+        "form": "daka-ka",
+        "meaning": "daka-ka is a verb indicating action, similar to \"go\" in English."
+      },
+      {
+        "form": "daka-ka-ra",
+        "meaning": "daka-ka-ra indicates future tense, similar to \"will go\" in English."
+      },
+      {
+        "form": "daka-ka-si",
+        "meaning": "daka-ka-si indicates past tense, similar to \"went\" in English."
+      },
+      {
+        "form": "daka-tu",
+        "meaning": "daka-tu indicates first person singular, similar to \"I\" in English."
+      },
+      {
+        "form": "daka-tu-si",
+        "meaning": "daka-tu-si indicates past first person singular, similar to \"I went\" in English."
+      },
+      {
+        "form": "daka-li",
+        "meaning": "daka-li indicates third person singular, similar to \"he\" in English."
+      },
+      {
+        "form": "daka-li-si",
+        "meaning": "daka-li-si indicates past third person singular, similar"
+      }
+    ],
+    "rules_text": "LANGUAGE_COLUMN: language_D\nOBSERVED_UNITS: - I go. | past | I go\n- I go to the city. | past | I go to the city\n- I go into the house. | past | I go into the house\n- I will go tomorrow. | future | I will go\n- I will go to the city tomorrow. | future | I will go to the city\n- I will go into the house tomorrow. | future | I will go into the house\n- I went yesterday. | past | I went\n- I went to the city yesterday. | past | I went to the city\n- I went into the house yesterday. | past | I went into the house\n- I will go here. | present | I will go\n- You go. | present | You go\n- You go to the city. | present | You go to the city\n- You go into the house. | present | You go into the house\n- You will go tomorrow. | future | You will go\n- You will go to the city tomorrow. | future | You will go to the city\n- You will go into the house tomorrow. | future | You will go into the house\n- You went\nRULES_SUMMARY: \nCANDIDATE_MARKERS: \nTYPOLOGICAL_FEATURES: \nUNCERTAINTIES: ",
+    "type_text": "LANGUAGE_COLUMN: language_D\nPREDICTED_TYPE: agglutinative\nCONFIDENCE: high\nREASONING: The column shows agglutinative features such as suffixes like -ka, -mu, -ra, -si, -ne, -sena, -ne, -sena, -li, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne, -kano-ne,\nSUPPORTING_PATTERNS: \nALTERNATIVES: \nUNCERTAINTIES: ",
+    "generation_text": "LANGUAGE_COLUMN: language_D\nGENERATED_FORMS: - daka-ka | daka-ka | daka-ka is a verb indicating action, similar to \"go\" in English.\n- daka-ka-ra | daka-ka-ra | daka-ka-ra indicates future tense, similar to \"will go\" in English.\n- daka-ka-si | daka-ka-si | daka-ka-si indicates past tense, similar to \"went\" in English.\n- daka-tu | daka-tu | daka-tu indicates first person singular, similar to \"I\" in English.\n- daka-tu-si | daka-tu-si | daka-tu-si indicates past first person singular, similar to \"I went\" in English.\n- daka-li | daka-li | daka-li indicates third person singular, similar to \"he\" in English.\n- daka-li-si | daka-li-si | daka-li-si indicates past third person singular, similar\nGENERATION_NOTES: \nUNCERTAINTIES: "
+  },
+  "language_E": {
+    "true_type": "polysynthetic",
+    "predicted_type": "agglutinative",
+    "type_correct": 0,
+    "marker_details": {
+      "subject_prefixes": {
+        "expected": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "found": [
+          "ma",
+          "ta",
+          "lo"
+        ],
+        "category_hit": 1
+      },
+      "future": {
+        "expected": [
+          "ru"
+        ],
+        "found": [
+          "ru"
+        ],
+        "category_hit": 1
+      },
+      "past": {
+        "expected": [
+          "se"
+        ],
+        "found": [
+          "se"
+        ],
+        "category_hit": 1
+      },
+      "plural": {
+        "expected": [
+          "it"
+        ],
+        "found": [
+          "it"
+        ],
+        "category_hit": 1
+      },
+      "location_to": {
+        "expected": [
+          "mo"
+        ],
+        "found": [
+          "mo"
+        ],
+        "category_hit": 1
+      },
+      "location_into": {
+        "expected": [
+          "nu"
+        ],
+        "found": [
+          "nu"
+        ],
+        "category_hit": 1
+      },
+      "location_in": {
+        "expected": [
+          "ni"
+        ],
+        "found": [
+          "ni"
+        ],
+        "category_hit": 1
+      },
+      "clause_linking": {
+        "expected": [
+          "ka"
+        ],
+        "found": [
+          "ka"
+        ],
+        "category_hit": 1
+      },
+      "intensifier": {
+        "expected": [
+          "po"
+        ],
+        "found": [
+          "po"
+        ],
+        "category_hit": 1
+      }
+    },
+    "function_details": {
+      "ma": {
+        "expected_functions": [
+          "first person",
+          "i",
+          "subject prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "i"
+        ],
+        "function_hit": 1
+      },
+      "ta": {
+        "expected_functions": [
+          "second person",
+          "you",
+          "subject prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "you"
+        ],
+        "function_hit": 1
+      },
+      "lo": {
+        "expected_functions": [
+          "third person",
+          "he",
+          "it",
+          "subject prefix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "he",
+          "it"
+        ],
+        "function_hit": 1
+      },
+      "ru": {
+        "expected_functions": [
+          "future",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "future",
+          "suffix"
+        ],
+        "function_hit": 1
+      },
+      "se": {
+        "expected_functions": [
+          "past",
+          "suffix"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "past",
+          "suffix"
+        ],
+        "function_hit": 1
+      },
+      "it": {
+        "expected_functions": [
+          "plural"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "mo": {
+        "expected_functions": [
+          "to",
+          "allative",
+          "incorporated location"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "to"
+        ],
+        "function_hit": 1
+      },
+      "nu": {
+        "expected_functions": [
+          "into",
+          "illative",
+          "incorporated location"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "into"
+        ],
+        "function_hit": 1
+      },
+      "ni": {
+        "expected_functions": [
+          "in",
+          "locative",
+          "incorporated location"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [
+          "in"
+        ],
+        "function_hit": 1
+      },
+      "ka": {
+        "expected_functions": [
+          "because",
+          "clause linking",
+          "subordination"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      },
+      "po": {
+        "expected_functions": [
+          "very",
+          "intensifier"
+        ],
+        "marker_present": 1,
+        "matched_keywords": [],
+        "function_hit": 0
+      }
+    },
+    "feature_details": {
+      "morphological_type": {
+        "expected": "polysynthetic",
+        "keywords_checked": [
+          "polysynthetic",
+          "incorporation",
+          "complex predicate",
+          "single word"
+        ],
+        "matched": 0
+      },
+      "word_structure": {
+        "expected": "complex predicate",
+        "keywords_checked": [
+          "complex",
+          "predicate",
+          "single word"
+        ],
+        "matched": 0
+      },
+      "tense_marking": {
+        "expected": "suffix inside predicate",
+        "keywords_checked": [
+          "suffix",
+          "predicate"
+        ],
+        "matched": 1
+      },
+      "subject_marking": {
+        "expected": "subject prefixes",
+        "keywords_checked": [
+          "subject",
+          "prefix"
+        ],
+        "matched": 0
+      },
+      "object_marking": {
+        "expected": "incorporation",
+        "keywords_checked": [
+          "incorporation",
+          "incorporated",
+          "complex word"
+        ],
+        "matched": 0
+      },
+      "location_marking": {
+        "expected": "incorporation",
+        "keywords_checked": [
+          "incorporation",
+          "incorporated",
+          "complex word"
+        ],
+        "matched": 0
+      },
+      "affixation": {
+        "expected": "mixed prefixing suffixing",
+        "keywords_checked": [
+          "prefix",
+          "suffix",
+          "mixed"
+        ],
+        "matched": 1
+      },
+      "incorporation": {
+        "expected": true,
+        "keywords_checked": [
+          "incorporation",
+          "incorporated",
+          "complex predicate"
+        ],
+        "matched": 0
+      }
+    },
+    "generation_details": {
+      "item_1": {
+        "meaning": "i will go tomorrow is future tense",
+        "form": "madakarufila",
+        "checks": {
+          "future_ru": 1,
+          "subject_ma": 1
+        },
+        "valid": 1
+      },
+      "item_2": {
+        "meaning": "i go here is location",
+        "form": "madakanala",
+        "checks": {
+          "subject_ma": 1
+        },
+        "valid": 1
+      },
+      "item_3": {
+        "meaning": "i went yesterday is past tense",
+        "form": "madakasesena",
+        "checks": {
+          "past_se": 1,
+          "subject_ma": 1
+        },
+        "valid": 1
+      },
+      "item_4": {
+        "meaning": "i will go to the city tomorrow is future tense",
+        "form": "madakarufila",
+        "checks": {
+          "future_ru": 1,
+          "subject_ma": 1,
+          "location_to_mo": 0
+        },
+        "valid": 0
+      },
+      "item_5": {
+        "meaning": "i went into the house yesterday is past tense",
+        "form": "madakasesena",
+        "checks": {
+          "past_se": 1,
+          "subject_ma": 1,
+          "location_into_nu": 0
+        },
+        "valid": 0
+      }
+    },
+    "generated_forms": [
+      {
+        "form": "madakarufila",
+        "meaning": "I will go tomorrow is future tense"
+      },
+      {
+        "form": "madakanala",
+        "meaning": "I go here is location"
+      },
+      {
+        "form": "madakasesena",
+        "meaning": "I went yesterday is past tense"
+      },
+      {
+        "form": "madakarufila",
+        "meaning": "I will go to the city tomorrow is future tense"
+      },
+      {
+        "form": "madakasesena",
+        "meaning": "I went into the house yesterday is past tense"
+      }
+    ],
+    "rules_text": "LANGUAGE_COLUMN: language_E\nOBSERVED_UNITS: - madaka | past | I go\n- matotonudaka | past | I go into the house\n- madakarufila | future | I will go\n- matotonudakarufila | future | I will go into the house\n- madakasesena | past | I went\n- matotonudakasesena | past | I went into the house\n- madakarufila | future | I will go\n- matotonudakarufila | future | I will go into the house\n- manaku | present | I cry\n- matotoninaku | present | I cry in the house\n- manakurufila | future | I will cry\n- matotoninakurufila | future | I will cry in the house\n- manakusesena | past | I cried\n- matotoninakusesena | past | I cried in the house\n- manakurufila | future | I will cry\n- matotoninakurufila | future | I will cry in the house\n- lodaka | present | He goes\n- lototonudaka | present | He goes into the house\n- lodakar\nRULES_SUMMARY: \nCANDIDATE_MARKERS: \nTYPOLOGICAL_FEATURES: \nUNCERTAINTIES: ",
+    "type_text": "LANGUAGE_COLUMN: language_E\nPREDICTED_TYPE: agglutinative\nCONFIDENCE: high\nREASONING: The column shows agglutinative features, where suffixes are added to stems to form new words. The suffixes often indicate tense, aspect, or other grammatical categories. For example, \"madaka\" (go) becomes \"madakarufila\" (will go), which indicates future tense. This pattern is consistent throughout the column, showing that each verb stem is extended with suffixes to create new meanings.\nSUPPORTING_PATTERNS: - \"madaka\" (go) → \"madakarufila\" (will go)\n- \"tadaka\" (you go) → \"takanomodaka\" (you will go)\n- \"lodaka\" (he goes) →\nALTERNATIVES: \nUNCERTAINTIES: ",
+    "generation_text": "LANGUAGE_COLUMN: language_E\nGENERATED_FORMS: - madakarufila | madakasina | I will go tomorrow is future tense\n- madakanala | madakasina | I go here is location\n- madakasesena | madakasina | I went yesterday is past tense\n- madakarufila | madakasina | I will go to the city tomorrow is future tense\n- madakasesena | madakasina | I went into the house yesterday is past tense\nGENERATION_NOTES: The forms are generated based on the future tense (madakarufila) and past tense (madakasesena) markers, as well as the location marker (madakanala). The forms are reused to maintain consistency with the existing data.\nUNCERTAINTIES: - Uncertain: No further plausible forms can be generated without additional context or rules.\n\n---\n\nThis response adheres to the guidelines by using only visible material from the dataset, avoiding invention of new morphemes, and not comparing with other"
+  }
+}

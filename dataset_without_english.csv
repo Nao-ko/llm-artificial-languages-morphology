@@ -1,0 +1,394 @@
+id,language_A,language_B,language_C,language_D,language_E
+1,ma daka,ma daka,medaka,daka-ka,madaka
+2,ma daka du kano,ma daka mu kano,medaka dra kano,daka-ka kano-mu,makanomodaka
+3,ma daka ri toto,ma daka nel toto,medaka vren toto,daka-ka toto-nun,matotonudaka
+4,fila ma vek daka,ma zo daka fila,ardaka fila,daka-ka-ra fila,madakarufila
+5,fila ma vek daka du kano,ma zo daka mu kano fila,ardaka dra kano fila,daka-ka-ra kano-mu fila,makanomodakarufila
+6,fila ma vek daka ri toto,ma zo daka nel toto fila,ardaka vren toto fila,daka-ka-ra toto-nun fila,matotonudakarufila
+7,sena ma tun daka,ma ki daka sena,ukdaka sena,daka-ka-si sena,madakasesena
+8,sena ma tun daka du kano,ma ki daka mu kano sena,ukdaka dra kano sena,daka-ka-si kano-mu sena,makanomodakasesena
+9,sena ma tun daka ri toto,ma ki daka nel toto sena,ukdaka vren toto sena,daka-ka-si toto-nun sena,matotonudakasesena
+10,ma daka nala,ma daka nala,medaka nala,daka-ka nala,madakanala
+11,ta daka,ta daka,tidaka,daka-tu,tadaka
+12,ta daka du kano,ta daka mu kano,tidaka dra kano,daka-tu kano-mu,takanomodaka
+13,ta daka ri toto,ta daka nel toto,tidaka vren toto,daka-tu toto-nun,tatotonudaka
+14,fila ta vek daka,ta zo daka fila,eldaka fila,daka-tu-ra fila,tadakarufila
+15,fila ta vek daka du kano,ta zo daka mu kano fila,eldaka dra kano fila,daka-tu-ra kano-mu fila,takanomodakarufila
+16,fila ta vek daka ri toto,ta zo daka nel toto fila,eldaka vren toto fila,daka-tu-ra toto-nun fila,tatotonudakarufila
+17,sena ta tun daka,ta ki daka sena,otdaka sena,daka-tu-si sena,tadakasesena
+18,sena ta tun daka du kano,ta ki daka mu kano sena,otdaka dra kano sena,daka-tu-si kano-mu sena,takanomodakasesena
+19,sena ta tun daka ri toto,ta ki daka nel toto sena,otdaka vren toto sena,daka-tu-si toto-nun sena,tatotonudakasesena
+20,ta daka nala,ta daka nala,tidaka nala,daka-tu nala,tadakanala
+21,lo daka,lo daka,nadaka,daka-li,lodaka
+22,lo daka du kano,lo daka mu kano,nadaka dra kano,daka-li kano-mu,lokanomodaka
+23,lo daka ri toto,lo daka nel toto,nadaka vren toto,daka-li toto-nun,lototonudaka
+24,fila lo vek daka,lo zo daka fila,ordaka fila,daka-li-ra fila,lodakarufila
+25,fila lo vek daka du kano,lo zo daka mu kano fila,ordaka dra kano fila,daka-li-ra kano-mu fila,lokanomodakarufila
+26,fila lo vek daka ri toto,lo zo daka nel toto fila,ordaka vren toto fila,daka-li-ra toto-nun fila,lototonudakarufila
+27,sena lo tun daka,lo ki daka sena,evdaka sena,daka-li-si sena,lodakasesena
+28,sena lo tun daka du kano,lo ki daka mu kano sena,evdaka dra kano sena,daka-li-si kano-mu sena,lokanomodakasesena
+29,sena lo tun daka ri toto,lo ki daka nel toto sena,evdaka vren toto sena,daka-li-si toto-nun sena,lototonudakasesena
+30,lo daka nala,lo daka nala,nadaka nala,daka-li nala,lodakanala
+31,ma naku,ma naku,menaku,naku-ka,manaku
+32,ma naku na kano,ma naku sha kano,menaku nim kano,naku-ka kano-ne,makanoninaku
+33,ma naku na toto,ma naku sha toto,menaku nim toto,naku-ka toto-ne,matotoninaku
+34,fila ma vek naku,ma zo naku fila,arnaku fila,naku-ka-ra fila,manakurufila
+35,fila ma vek naku na kano,ma zo naku sha kano fila,arnaku nim kano fila,naku-ka-ra kano-ne fila,makanoninakurufila
+36,fila ma vek naku na toto,ma zo naku sha toto fila,arnaku nim toto fila,naku-ka-ra toto-ne fila,matotoninakurufila
+37,sena ma tun naku,ma ki naku sena,uknaku sena,naku-ka-si sena,manakusesena
+38,sena ma tun naku na kano,ma ki naku sha kano sena,uknaku nim kano sena,naku-ka-si kano-ne sena,makanoninakusesena
+39,sena ma tun naku na toto,ma ki naku sha toto sena,uknaku nim toto sena,naku-ka-si toto-ne sena,matotoninakusesena
+40,ma naku nala,ma naku nala,menaku nala,naku-ka nala,manakunala
+41,ta naku,ta naku,tinaku,naku-tu,tanaku
+42,ta naku na kano,ta naku sha kano,tinaku nim kano,naku-tu kano-ne,takanoninaku
+43,ta naku na toto,ta naku sha toto,tinaku nim toto,naku-tu toto-ne,tatotoninaku
+44,fila ta vek naku,ta zo naku fila,elnaku fila,naku-tu-ra fila,tanakurufila
+45,fila ta vek naku na kano,ta zo naku sha kano fila,elnaku nim kano fila,naku-tu-ra kano-ne fila,takanoninakurufila
+46,fila ta vek naku na toto,ta zo naku sha toto fila,elnaku nim toto fila,naku-tu-ra toto-ne fila,tatotoninakurufila
+47,sena ta tun naku,ta ki naku sena,otnaku sena,naku-tu-si sena,tanakusesena
+48,sena ta tun naku na kano,ta ki naku sha kano sena,otnaku nim kano sena,naku-tu-si kano-ne sena,takanoninakusesena
+49,sena ta tun naku na toto,ta ki naku sha toto sena,otnaku nim toto sena,naku-tu-si toto-ne sena,tatotoninakusesena
+50,ta naku nala,ta naku nala,tinaku nala,naku-tu nala,tanakunala
+51,lo naku,lo naku,nanaku,naku-li,lonaku
+52,lo naku na kano,lo naku sha kano,nanaku nim kano,naku-li kano-ne,lokanoninaku
+53,lo naku na toto,lo naku sha toto,nanaku nim toto,naku-li toto-ne,lototoninaku
+54,fila lo vek naku,lo zo naku fila,ornaku fila,naku-li-ra fila,lonakurufila
+55,fila lo vek naku na kano,lo zo naku sha kano fila,ornaku nim kano fila,naku-li-ra kano-ne fila,lokanoninakurufila
+56,fila lo vek naku na toto,lo zo naku sha toto fila,ornaku nim toto fila,naku-li-ra toto-ne fila,lototoninakurufila
+57,sena lo tun naku,lo ki naku sena,evnaku sena,naku-li-si sena,lonakusesena
+58,sena lo tun naku na kano,lo ki naku sha kano sena,evnaku nim kano sena,naku-li-si kano-ne sena,lokanoninakusesena
+59,sena lo tun naku na toto,lo ki naku sha toto sena,evnaku nim toto sena,naku-li-si toto-ne sena,lototoninakusesena
+60,lo naku nala,lo naku nala,nanaku nala,naku-li nala,lonakunala
+61,lo bogu,lo bogu,nabogu,bogu-li,lobogu
+62,fila lo vek bogu,lo zo bogu fila,orbogu fila,bogu-li-ra fila,lobogurufila
+63,sena lo tun bogu,lo ki bogu sena,evbogu sena,bogu-li-si sena,lobogusesena
+64,ma notu peli,ma notu peli,menotu peli,notu-ka peli,mapelinotu
+65,ma notu peli na kano,ma notu peli sha kano,menotu peli nim kano,notu-ka peli kano-ne,mapelikanoninotu
+66,ma notu peli na toto,ma notu peli sha toto,menotu peli nim toto,notu-ka peli toto-ne,mapelitotoninotu
+67,fila ma vek notu peli,ma zo notu peli fila,arnotu peli fila,notu-ka-ra peli fila,mapelinoturufila
+68,fila ma vek notu peli na kano,ma zo notu peli sha kano fila,arnotu peli nim kano fila,notu-ka-ra peli kano-ne fila,mapelikanoninoturufila
+69,fila ma vek notu peli na toto,ma zo notu peli sha toto fila,arnotu peli nim toto fila,notu-ka-ra peli toto-ne fila,mapelitotoninoturufila
+70,sena ma tun notu peli,ma ki notu peli sena,uknotu peli sena,notu-ka-si peli sena,mapelinotusesena
+71,sena ma tun notu peli na kano,ma ki notu peli sha kano sena,uknotu peli nim kano sena,notu-ka-si peli kano-ne sena,mapelikanoninotusesena
+72,sena ma tun notu peli na toto,ma ki notu peli sha toto sena,uknotu peli nim toto sena,notu-ka-si peli toto-ne sena,mapelitotoninotusesena
+73,ma notu fenu,ma notu fenu,menotu fenu,notu-ka fenu,mafenunotu
+74,ma notu fenu na kano,ma notu fenu sha kano,menotu fenu nim kano,notu-ka fenu kano-ne,mafenukanoninotu
+75,ma notu fenu na toto,ma notu fenu sha toto,menotu fenu nim toto,notu-ka fenu toto-ne,mafenutotoninotu
+76,fila ma vek notu fenu,ma zo notu fenu fila,arnotu fenu fila,notu-ka-ra fenu fila,mafenunoturufila
+77,fila ma vek notu fenu na kano,ma zo notu fenu sha kano fila,arnotu fenu nim kano fila,notu-ka-ra fenu kano-ne fila,mafenukanoninoturufila
+78,fila ma vek notu fenu na toto,ma zo notu fenu sha toto fila,arnotu fenu nim toto fila,notu-ka-ra fenu toto-ne fila,mafenutotoninoturufila
+79,sena ma tun notu fenu,ma ki notu fenu sena,uknotu fenu sena,notu-ka-si fenu sena,mafenunotusesena
+80,sena ma tun notu fenu na kano,ma ki notu fenu sha kano sena,uknotu fenu nim kano sena,notu-ka-si fenu kano-ne sena,mafenukanoninotusesena
+81,sena ma tun notu fenu na toto,ma ki notu fenu sha toto sena,uknotu fenu nim toto sena,notu-ka-si fenu toto-ne sena,mafenutotoninotusesena
+82,ma notu raki,ma notu raki,menotu raki,notu-ka raki,marakinotu
+83,ma notu raki na kano,ma notu raki sha kano,menotu raki nim kano,notu-ka raki kano-ne,marakikanoninotu
+84,ma notu raki na toto,ma notu raki sha toto,menotu raki nim toto,notu-ka raki toto-ne,marakitotoninotu
+85,fila ma vek notu raki,ma zo notu raki fila,arnotu raki fila,notu-ka-ra raki fila,marakinoturufila
+86,fila ma vek notu raki na kano,ma zo notu raki sha kano fila,arnotu raki nim kano fila,notu-ka-ra raki kano-ne fila,marakikanoninoturufila
+87,fila ma vek notu raki na toto,ma zo notu raki sha toto fila,arnotu raki nim toto fila,notu-ka-ra raki toto-ne fila,marakitotoninoturufila
+88,sena ma tun notu raki,ma ki notu raki sena,uknotu raki sena,notu-ka-si raki sena,marakinotusesena
+89,sena ma tun notu raki na kano,ma ki notu raki sha kano sena,uknotu raki nim kano sena,notu-ka-si raki kano-ne sena,marakikanoninotusesena
+90,sena ma tun notu raki na toto,ma ki notu raki sha toto sena,uknotu raki nim toto sena,notu-ka-si raki toto-ne sena,marakitotoninotusesena
+91,ma notu dovu,ma notu dovu,menotu dovu,notu-ka dovu,madovunotu
+92,ma notu dovu na kano,ma notu dovu sha kano,menotu dovu nim kano,notu-ka dovu kano-ne,madovukanoninotu
+93,ma notu dovu na toto,ma notu dovu sha toto,menotu dovu nim toto,notu-ka dovu toto-ne,madovutotoninotu
+94,fila ma vek notu dovu,ma zo notu dovu fila,arnotu dovu fila,notu-ka-ra dovu fila,madovunoturufila
+95,fila ma vek notu dovu na kano,ma zo notu dovu sha kano fila,arnotu dovu nim kano fila,notu-ka-ra dovu kano-ne fila,madovukanoninoturufila
+96,fila ma vek notu dovu na toto,ma zo notu dovu sha toto fila,arnotu dovu nim toto fila,notu-ka-ra dovu toto-ne fila,madovutotoninoturufila
+97,sena ma tun notu dovu,ma ki notu dovu sena,uknotu dovu sena,notu-ka-si dovu sena,madovunotusesena
+98,sena ma tun notu dovu na kano,ma ki notu dovu sha kano sena,uknotu dovu nim kano sena,notu-ka-si dovu kano-ne sena,madovukanoninotusesena
+99,sena ma tun notu dovu na toto,ma ki notu dovu sha toto sena,uknotu dovu nim toto sena,notu-ka-si dovu toto-ne sena,madovutotoninotusesena
+100,ma notu dovu nul,ma notu enu dovu,menotu dovuir,notu-ka dovu-min,madovuitnotu
+101,ma notu dovu nul na kano,ma notu enu dovu sha kano,menotu dovuir nim kano,notu-ka dovu-min kano-ne,madovuitkanoninotu
+102,ma notu dovu nul na toto,ma notu enu dovu sha toto,menotu dovuir nim toto,notu-ka dovu-min toto-ne,madovuittotoninotu
+103,fila ma vek notu dovu nul,ma zo notu enu dovu fila,arnotu dovuir fila,notu-ka-ra dovu-min fila,madovuitnoturufila
+104,fila ma vek notu dovu nul na kano,ma zo notu enu dovu sha kano fila,arnotu dovuir nim kano fila,notu-ka-ra dovu-min kano-ne fila,madovuitkanoninoturufila
+105,fila ma vek notu dovu nul na toto,ma zo notu enu dovu sha toto fila,arnotu dovuir nim toto fila,notu-ka-ra dovu-min toto-ne fila,madovuittotoninoturufila
+106,sena ma tun notu dovu nul,ma ki notu enu dovu sena,uknotu dovuir sena,notu-ka-si dovu-min sena,madovuitnotusesena
+107,sena ma tun notu dovu nul na kano,ma ki notu enu dovu sha kano sena,uknotu dovuir nim kano sena,notu-ka-si dovu-min kano-ne sena,madovuitkanoninotusesena
+108,sena ma tun notu dovu nul na toto,ma ki notu enu dovu sha toto sena,uknotu dovuir nim toto sena,notu-ka-si dovu-min toto-ne sena,madovuittotoninotusesena
+109,ta notu peli,ta notu peli,tinotu peli,notu-tu peli,tapelinotu
+110,ta notu peli na kano,ta notu peli sha kano,tinotu peli nim kano,notu-tu peli kano-ne,tapelikanoninotu
+111,ta notu peli na toto,ta notu peli sha toto,tinotu peli nim toto,notu-tu peli toto-ne,tapelitotoninotu
+112,fila ta vek notu peli,ta zo notu peli fila,elnotu peli fila,notu-tu-ra peli fila,tapelinoturufila
+113,fila ta vek notu peli na kano,ta zo notu peli sha kano fila,elnotu peli nim kano fila,notu-tu-ra peli kano-ne fila,tapelikanoninoturufila
+114,fila ta vek notu peli na toto,ta zo notu peli sha toto fila,elnotu peli nim toto fila,notu-tu-ra peli toto-ne fila,tapelitotoninoturufila
+115,sena ta tun notu peli,ta ki notu peli sena,otnotu peli sena,notu-tu-si peli sena,tapelinotusesena
+116,sena ta tun notu peli na kano,ta ki notu peli sha kano sena,otnotu peli nim kano sena,notu-tu-si peli kano-ne sena,tapelikanoninotusesena
+117,sena ta tun notu peli na toto,ta ki notu peli sha toto sena,otnotu peli nim toto sena,notu-tu-si peli toto-ne sena,tapelitotoninotusesena
+118,ta notu fenu,ta notu fenu,tinotu fenu,notu-tu fenu,tafenunotu
+119,ta notu fenu na kano,ta notu fenu sha kano,tinotu fenu nim kano,notu-tu fenu kano-ne,tafenukanoninotu
+120,ta notu fenu na toto,ta notu fenu sha toto,tinotu fenu nim toto,notu-tu fenu toto-ne,tafenutotoninotu
+121,fila ta vek notu fenu,ta zo notu fenu fila,elnotu fenu fila,notu-tu-ra fenu fila,tafenunoturufila
+122,fila ta vek notu fenu na kano,ta zo notu fenu sha kano fila,elnotu fenu nim kano fila,notu-tu-ra fenu kano-ne fila,tafenukanoninoturufila
+123,fila ta vek notu fenu na toto,ta zo notu fenu sha toto fila,elnotu fenu nim toto fila,notu-tu-ra fenu toto-ne fila,tafenutotoninoturufila
+124,sena ta tun notu fenu,ta ki notu fenu sena,otnotu fenu sena,notu-tu-si fenu sena,tafenunotusesena
+125,sena ta tun notu fenu na kano,ta ki notu fenu sha kano sena,otnotu fenu nim kano sena,notu-tu-si fenu kano-ne sena,tafenukanoninotusesena
+126,sena ta tun notu fenu na toto,ta ki notu fenu sha toto sena,otnotu fenu nim toto sena,notu-tu-si fenu toto-ne sena,tafenutotoninotusesena
+127,ta notu raki,ta notu raki,tinotu raki,notu-tu raki,tarakinotu
+128,ta notu raki na kano,ta notu raki sha kano,tinotu raki nim kano,notu-tu raki kano-ne,tarakikanoninotu
+129,ta notu raki na toto,ta notu raki sha toto,tinotu raki nim toto,notu-tu raki toto-ne,tarakitotoninotu
+130,fila ta vek notu raki,ta zo notu raki fila,elnotu raki fila,notu-tu-ra raki fila,tarakinoturufila
+131,fila ta vek notu raki na kano,ta zo notu raki sha kano fila,elnotu raki nim kano fila,notu-tu-ra raki kano-ne fila,tarakikanoninoturufila
+132,fila ta vek notu raki na toto,ta zo notu raki sha toto fila,elnotu raki nim toto fila,notu-tu-ra raki toto-ne fila,tarakitotoninoturufila
+133,sena ta tun notu raki,ta ki notu raki sena,otnotu raki sena,notu-tu-si raki sena,tarakinotusesena
+134,sena ta tun notu raki na kano,ta ki notu raki sha kano sena,otnotu raki nim kano sena,notu-tu-si raki kano-ne sena,tarakikanoninotusesena
+135,sena ta tun notu raki na toto,ta ki notu raki sha toto sena,otnotu raki nim toto sena,notu-tu-si raki toto-ne sena,tarakitotoninotusesena
+136,ta notu dovu,ta notu dovu,tinotu dovu,notu-tu dovu,tadovunotu
+137,ta notu dovu na kano,ta notu dovu sha kano,tinotu dovu nim kano,notu-tu dovu kano-ne,tadovukanoninotu
+138,ta notu dovu na toto,ta notu dovu sha toto,tinotu dovu nim toto,notu-tu dovu toto-ne,tadovutotoninotu
+139,fila ta vek notu dovu,ta zo notu dovu fila,elnotu dovu fila,notu-tu-ra dovu fila,tadovunoturufila
+140,fila ta vek notu dovu na kano,ta zo notu dovu sha kano fila,elnotu dovu nim kano fila,notu-tu-ra dovu kano-ne fila,tadovukanoninoturufila
+141,fila ta vek notu dovu na toto,ta zo notu dovu sha toto fila,elnotu dovu nim toto fila,notu-tu-ra dovu toto-ne fila,tadovutotoninoturufila
+142,sena ta tun notu dovu,ta ki notu dovu sena,otnotu dovu sena,notu-tu-si dovu sena,tadovunotusesena
+143,sena ta tun notu dovu na kano,ta ki notu dovu sha kano sena,otnotu dovu nim kano sena,notu-tu-si dovu kano-ne sena,tadovukanoninotusesena
+144,sena ta tun notu dovu na toto,ta ki notu dovu sha toto sena,otnotu dovu nim toto sena,notu-tu-si dovu toto-ne sena,tadovutotoninotusesena
+145,ta notu dovu nul,ta notu enu dovu,tinotu dovuir,notu-tu dovu-min,tadovuitnotu
+146,ta notu dovu nul na kano,ta notu enu dovu sha kano,tinotu dovuir nim kano,notu-tu dovu-min kano-ne,tadovuitkanoninotu
+147,ta notu dovu nul na toto,ta notu enu dovu sha toto,tinotu dovuir nim toto,notu-tu dovu-min toto-ne,tadovuittotoninotu
+148,fila ta vek notu dovu nul,ta zo notu enu dovu fila,elnotu dovuir fila,notu-tu-ra dovu-min fila,tadovuitnoturufila
+149,fila ta vek notu dovu nul na kano,ta zo notu enu dovu sha kano fila,elnotu dovuir nim kano fila,notu-tu-ra dovu-min kano-ne fila,tadovuitkanoninoturufila
+150,fila ta vek notu dovu nul na toto,ta zo notu enu dovu sha toto fila,elnotu dovuir nim toto fila,notu-tu-ra dovu-min toto-ne fila,tadovuittotoninoturufila
+151,sena ta tun notu dovu nul,ta ki notu enu dovu sena,otnotu dovuir sena,notu-tu-si dovu-min sena,tadovuitnotusesena
+152,sena ta tun notu dovu nul na kano,ta ki notu enu dovu sha kano sena,otnotu dovuir nim kano sena,notu-tu-si dovu-min kano-ne sena,tadovuitkanoninotusesena
+153,sena ta tun notu dovu nul na toto,ta ki notu enu dovu sha toto sena,otnotu dovuir nim toto sena,notu-tu-si dovu-min toto-ne sena,tadovuittotoninotusesena
+154,lo notu peli,lo notu peli,nanotu peli,notu-li peli,lopelinotu
+155,lo notu peli na kano,lo notu peli sha kano,nanotu peli nim kano,notu-li peli kano-ne,lopelikanoninotu
+156,lo notu peli na toto,lo notu peli sha toto,nanotu peli nim toto,notu-li peli toto-ne,lopelitotoninotu
+157,fila lo vek notu peli,lo zo notu peli fila,ornotu peli fila,notu-li-ra peli fila,lopelinoturufila
+158,fila lo vek notu peli na kano,lo zo notu peli sha kano fila,ornotu peli nim kano fila,notu-li-ra peli kano-ne fila,lopelikanoninoturufila
+159,fila lo vek notu peli na toto,lo zo notu peli sha toto fila,ornotu peli nim toto fila,notu-li-ra peli toto-ne fila,lopelitotoninoturufila
+160,sena lo tun notu peli,lo ki notu peli sena,evnotu peli sena,notu-li-si peli sena,lopelinotusesena
+161,sena lo tun notu peli na kano,lo ki notu peli sha kano sena,evnotu peli nim kano sena,notu-li-si peli kano-ne sena,lopelikanoninotusesena
+162,sena lo tun notu peli na toto,lo ki notu peli sha toto sena,evnotu peli nim toto sena,notu-li-si peli toto-ne sena,lopelitotoninotusesena
+163,lo notu fenu,lo notu fenu,nanotu fenu,notu-li fenu,lofenunotu
+164,lo notu fenu na kano,lo notu fenu sha kano,nanotu fenu nim kano,notu-li fenu kano-ne,lofenukanoninotu
+165,lo notu fenu na toto,lo notu fenu sha toto,nanotu fenu nim toto,notu-li fenu toto-ne,lofenutotoninotu
+166,fila lo vek notu fenu,lo zo notu fenu fila,ornotu fenu fila,notu-li-ra fenu fila,lofenunoturufila
+167,fila lo vek notu fenu na kano,lo zo notu fenu sha kano fila,ornotu fenu nim kano fila,notu-li-ra fenu kano-ne fila,lofenukanoninoturufila
+168,fila lo vek notu fenu na toto,lo zo notu fenu sha toto fila,ornotu fenu nim toto fila,notu-li-ra fenu toto-ne fila,lofenutotoninoturufila
+169,sena lo tun notu fenu,lo ki notu fenu sena,evnotu fenu sena,notu-li-si fenu sena,lofenunotusesena
+170,sena lo tun notu fenu na kano,lo ki notu fenu sha kano sena,evnotu fenu nim kano sena,notu-li-si fenu kano-ne sena,lofenukanoninotusesena
+171,sena lo tun notu fenu na toto,lo ki notu fenu sha toto sena,evnotu fenu nim toto sena,notu-li-si fenu toto-ne sena,lofenutotoninotusesena
+172,lo notu raki,lo notu raki,nanotu raki,notu-li raki,lorakinotu
+173,lo notu raki na kano,lo notu raki sha kano,nanotu raki nim kano,notu-li raki kano-ne,lorakikanoninotu
+174,lo notu raki na toto,lo notu raki sha toto,nanotu raki nim toto,notu-li raki toto-ne,lorakitotoninotu
+175,fila lo vek notu raki,lo zo notu raki fila,ornotu raki fila,notu-li-ra raki fila,lorakinoturufila
+176,fila lo vek notu raki na kano,lo zo notu raki sha kano fila,ornotu raki nim kano fila,notu-li-ra raki kano-ne fila,lorakikanoninoturufila
+177,fila lo vek notu raki na toto,lo zo notu raki sha toto fila,ornotu raki nim toto fila,notu-li-ra raki toto-ne fila,lorakitotoninoturufila
+178,sena lo tun notu raki,lo ki notu raki sena,evnotu raki sena,notu-li-si raki sena,lorakinotusesena
+179,sena lo tun notu raki na kano,lo ki notu raki sha kano sena,evnotu raki nim kano sena,notu-li-si raki kano-ne sena,lorakikanoninotusesena
+180,sena lo tun notu raki na toto,lo ki notu raki sha toto sena,evnotu raki nim toto sena,notu-li-si raki toto-ne sena,lorakitotoninotusesena
+181,lo notu dovu,lo notu dovu,nanotu dovu,notu-li dovu,lodovunotu
+182,lo notu dovu na kano,lo notu dovu sha kano,nanotu dovu nim kano,notu-li dovu kano-ne,lodovukanoninotu
+183,lo notu dovu na toto,lo notu dovu sha toto,nanotu dovu nim toto,notu-li dovu toto-ne,lodovutotoninotu
+184,fila lo vek notu dovu,lo zo notu dovu fila,ornotu dovu fila,notu-li-ra dovu fila,lodovunoturufila
+185,fila lo vek notu dovu na kano,lo zo notu dovu sha kano fila,ornotu dovu nim kano fila,notu-li-ra dovu kano-ne fila,lodovukanoninoturufila
+186,fila lo vek notu dovu na toto,lo zo notu dovu sha toto fila,ornotu dovu nim toto fila,notu-li-ra dovu toto-ne fila,lodovutotoninoturufila
+187,sena lo tun notu dovu,lo ki notu dovu sena,evnotu dovu sena,notu-li-si dovu sena,lodovunotusesena
+188,sena lo tun notu dovu na kano,lo ki notu dovu sha kano sena,evnotu dovu nim kano sena,notu-li-si dovu kano-ne sena,lodovukanoninotusesena
+189,sena lo tun notu dovu na toto,lo ki notu dovu sha toto sena,evnotu dovu nim toto sena,notu-li-si dovu toto-ne sena,lodovutotoninotusesena
+190,lo notu dovu nul,lo notu enu dovu,nanotu dovuir,notu-li dovu-min,lodovuitnotu
+191,lo notu dovu nul na kano,lo notu enu dovu sha kano,nanotu dovuir nim kano,notu-li dovu-min kano-ne,lodovuitkanoninotu
+192,lo notu dovu nul na toto,lo notu enu dovu sha toto,nanotu dovuir nim toto,notu-li dovu-min toto-ne,lodovuittotoninotu
+193,fila lo vek notu dovu nul,lo zo notu enu dovu fila,ornotu dovuir fila,notu-li-ra dovu-min fila,lodovuitnoturufila
+194,fila lo vek notu dovu nul na kano,lo zo notu enu dovu sha kano fila,ornotu dovuir nim kano fila,notu-li-ra dovu-min kano-ne fila,lodovuitkanoninoturufila
+195,fila lo vek notu dovu nul na toto,lo zo notu enu dovu sha toto fila,ornotu dovuir nim toto fila,notu-li-ra dovu-min toto-ne fila,lodovuittotoninoturufila
+196,sena lo tun notu dovu nul,lo ki notu enu dovu sena,evnotu dovuir sena,notu-li-si dovu-min sena,lodovuitnotusesena
+197,sena lo tun notu dovu nul na kano,lo ki notu enu dovu sha kano sena,evnotu dovuir nim kano sena,notu-li-si dovu-min kano-ne sena,lodovuitkanoninotusesena
+198,sena lo tun notu dovu nul na toto,lo ki notu enu dovu sha toto sena,evnotu dovuir nim toto sena,notu-li-si dovu-min toto-ne sena,lodovuittotoninotusesena
+199,ma luma toto,ma luma toto,meluma toto,luma-ka toto,matotoluma
+200,fila ma vek luma toto,ma zo luma toto fila,arluma toto fila,luma-ka-ra toto fila,matotolumarufila
+201,sena ma tun luma toto,ma ki luma toto sena,ukluma toto sena,luma-ka-si toto sena,matotolumasesena
+202,ma luma toto nul,ma luma enu toto,meluma totoum,luma-ka toto-min,matotoitluma
+203,fila ma vek luma toto nul,ma zo luma enu toto fila,arluma totoum fila,luma-ka-ra toto-min fila,matotoitlumarufila
+204,sena ma tun luma toto nul,ma ki luma enu toto sena,ukluma totoum sena,luma-ka-si toto-min sena,matotoitlumasesena
+205,ma luma toto na kano,ma luma toto sha kano,meluma toto nim kano,luma-ka toto kano-ne,matotokanoniluma
+206,fila ma vek luma toto na kano,ma zo luma toto sha kano fila,arluma toto nim kano fila,luma-ka-ra toto kano-ne fila,matotokanonilumarufila
+207,sena ma tun luma toto na kano,ma ki luma toto sha kano sena,ukluma toto nim kano sena,luma-ka-si toto kano-ne sena,matotokanonilumasesena
+208,ma luma kano,ma luma kano,meluma kano,luma-ka kano,makanoluma
+209,fila ma vek luma kano,ma zo luma kano fila,arluma kano fila,luma-ka-ra kano fila,makanolumarufila
+210,sena ma tun luma kano,ma ki luma kano sena,ukluma kano sena,luma-ka-si kano sena,makanolumasesena
+211,ma luma kano nul,ma luma enu kano,meluma kanoesh,luma-ka kano-min,makanoitluma
+212,fila ma vek luma kano nul,ma zo luma enu kano fila,arluma kanoesh fila,luma-ka-ra kano-min fila,makanoitlumarufila
+213,sena ma tun luma kano nul,ma ki luma enu kano sena,ukluma kanoesh sena,luma-ka-si kano-min sena,makanoitlumasesena
+214,ma luma kano na toto,ma luma kano sha toto,meluma kano nim toto,luma-ka kano toto-ne,makanototoniluma
+215,fila ma vek luma kano na toto,ma zo luma kano sha toto fila,arluma kano nim toto fila,luma-ka-ra kano toto-ne fila,makanototonilumarufila
+216,sena ma tun luma kano na toto,ma ki luma kano sha toto sena,ukluma kano nim toto sena,luma-ka-si kano toto-ne sena,makanototonilumasesena
+217,ma luma mira,ma luma mira,meluma mira,luma-ka mira,mamiraluma
+218,fila ma vek luma mira,ma zo luma mira fila,arluma mira fila,luma-ka-ra mira fila,mamiralumarufila
+219,sena ma tun luma mira,ma ki luma mira sena,ukluma mira sena,luma-ka-si mira sena,mamiralumasesena
+220,ma luma mira nul,ma luma enu mira,meluma miraai,luma-ka mira-min,mamiraitluma
+221,fila ma vek luma mira nul,ma zo luma enu mira fila,arluma miraai fila,luma-ka-ra mira-min fila,mamiraitlumarufila
+222,sena ma tun luma mira nul,ma ki luma enu mira sena,ukluma miraai sena,luma-ka-si mira-min sena,mamiraitlumasesena
+223,ma luma mira na kano,ma luma mira sha kano,meluma mira nim kano,luma-ka mira kano-ne,mamirakanoniluma
+224,fila ma vek luma mira na kano,ma zo luma mira sha kano fila,arluma mira nim kano fila,luma-ka-ra mira kano-ne fila,mamirakanonilumarufila
+225,sena ma tun luma mira na kano,ma ki luma mira sha kano sena,ukluma mira nim kano sena,luma-ka-si mira kano-ne sena,mamirakanonilumasesena
+226,ma luma mira na toto,ma luma mira sha toto,meluma mira nim toto,luma-ka mira toto-ne,mamiratotoniluma
+227,fila ma vek luma mira na toto,ma zo luma mira sha toto fila,arluma mira nim toto fila,luma-ka-ra mira toto-ne fila,mamiratotonilumarufila
+228,sena ma tun luma mira na toto,ma ki luma mira sha toto sena,ukluma mira nim toto sena,luma-ka-si mira toto-ne sena,mamiratotonilumasesena
+229,ma luma mira nul na kano,ma luma enu mira sha kano,meluma miraai nim kano,luma-ka mira-min kano-ne,mamiraitkanoniluma
+230,fila ma vek luma mira nul na kano,ma zo luma enu mira sha kano fila,arluma miraai nim kano fila,luma-ka-ra mira-min kano-ne fila,mamiraitkanonilumarufila
+231,sena ma tun luma mira nul na kano,ma ki luma enu mira sha kano sena,ukluma miraai nim kano sena,luma-ka-si mira-min kano-ne sena,mamiraitkanonilumasesena
+232,ma luma mira nul na toto,ma luma enu mira sha toto,meluma miraai nim toto,luma-ka mira-min toto-ne,mamiraittotoniluma
+233,fila ma vek luma mira nul na toto,ma zo luma enu mira sha toto fila,arluma miraai nim toto fila,luma-ka-ra mira-min toto-ne fila,mamiraittotonilumarufila
+234,sena ma tun luma mira nul na toto,ma ki luma enu mira sha toto sena,ukluma miraai nim toto sena,luma-ka-si mira-min toto-ne sena,mamiraittotonilumasesena
+235,ma luma saki,ma luma saki,meluma saki,luma-ka saki,masakiluma
+236,fila ma vek luma saki,ma zo luma saki fila,arluma saki fila,luma-ka-ra saki fila,masakilumarufila
+237,sena ma tun luma saki,ma ki luma saki sena,ukluma saki sena,luma-ka-si saki sena,masakilumasesena
+238,ma luma saki nul,ma luma enu saki,meluma sakiok,luma-ka saki-min,masakiitluma
+239,fila ma vek luma saki nul,ma zo luma enu saki fila,arluma sakiok fila,luma-ka-ra saki-min fila,masakiitlumarufila
+240,sena ma tun luma saki nul,ma ki luma enu saki sena,ukluma sakiok sena,luma-ka-si saki-min sena,masakiitlumasesena
+241,ma luma saki na kano,ma luma saki sha kano,meluma saki nim kano,luma-ka saki kano-ne,masakikanoniluma
+242,fila ma vek luma saki na kano,ma zo luma saki sha kano fila,arluma saki nim kano fila,luma-ka-ra saki kano-ne fila,masakikanonilumarufila
+243,sena ma tun luma saki na kano,ma ki luma saki sha kano sena,ukluma saki nim kano sena,luma-ka-si saki kano-ne sena,masakikanonilumasesena
+244,ma luma saki na toto,ma luma saki sha toto,meluma saki nim toto,luma-ka saki toto-ne,masakitotoniluma
+245,fila ma vek luma saki na toto,ma zo luma saki sha toto fila,arluma saki nim toto fila,luma-ka-ra saki toto-ne fila,masakitotonilumarufila
+246,sena ma tun luma saki na toto,ma ki luma saki sha toto sena,ukluma saki nim toto sena,luma-ka-si saki toto-ne sena,masakitotonilumasesena
+247,ma luma saki nul na kano,ma luma enu saki sha kano,meluma sakiok nim kano,luma-ka saki-min kano-ne,masakiitkanoniluma
+248,fila ma vek luma saki nul na kano,ma zo luma enu saki sha kano fila,arluma sakiok nim kano fila,luma-ka-ra saki-min kano-ne fila,masakiitkanonilumarufila
+249,sena ma tun luma saki nul na kano,ma ki luma enu saki sha kano sena,ukluma sakiok nim kano sena,luma-ka-si saki-min kano-ne sena,masakiitkanonilumasesena
+250,ma luma saki nul na toto,ma luma enu saki sha toto,meluma sakiok nim toto,luma-ka saki-min toto-ne,masakiittotoniluma
+251,fila ma vek luma saki nul na toto,ma zo luma enu saki sha toto fila,arluma sakiok nim toto fila,luma-ka-ra saki-min toto-ne fila,masakiittotonilumarufila
+252,sena ma tun luma saki nul na toto,ma ki luma enu saki sha toto sena,ukluma sakiok nim toto sena,luma-ka-si saki-min toto-ne sena,masakiittotonilumasesena
+253,ta luma toto,ta luma toto,tiluma toto,luma-tu toto,tatotoluma
+254,fila ta vek luma toto,ta zo luma toto fila,elluma toto fila,luma-tu-ra toto fila,tatotolumarufila
+255,sena ta tun luma toto,ta ki luma toto sena,otluma toto sena,luma-tu-si toto sena,tatotolumasesena
+256,ta luma toto nul,ta luma enu toto,tiluma totoum,luma-tu toto-min,tatotoitluma
+257,fila ta vek luma toto nul,ta zo luma enu toto fila,elluma totoum fila,luma-tu-ra toto-min fila,tatotoitlumarufila
+258,sena ta tun luma toto nul,ta ki luma enu toto sena,otluma totoum sena,luma-tu-si toto-min sena,tatotoitlumasesena
+259,ta luma toto na kano,ta luma toto sha kano,tiluma toto nim kano,luma-tu toto kano-ne,tatotokanoniluma
+260,fila ta vek luma toto na kano,ta zo luma toto sha kano fila,elluma toto nim kano fila,luma-tu-ra toto kano-ne fila,tatotokanonilumarufila
+261,sena ta tun luma toto na kano,ta ki luma toto sha kano sena,otluma toto nim kano sena,luma-tu-si toto kano-ne sena,tatotokanonilumasesena
+262,ta luma kano,ta luma kano,tiluma kano,luma-tu kano,takanoluma
+263,fila ta vek luma kano,ta zo luma kano fila,elluma kano fila,luma-tu-ra kano fila,takanolumarufila
+264,sena ta tun luma kano,ta ki luma kano sena,otluma kano sena,luma-tu-si kano sena,takanolumasesena
+265,ta luma kano nul,ta luma enu kano,tiluma kanoesh,luma-tu kano-min,takanoitluma
+266,fila ta vek luma kano nul,ta zo luma enu kano fila,elluma kanoesh fila,luma-tu-ra kano-min fila,takanoitlumarufila
+267,sena ta tun luma kano nul,ta ki luma enu kano sena,otluma kanoesh sena,luma-tu-si kano-min sena,takanoitlumasesena
+268,ta luma kano na toto,ta luma kano sha toto,tiluma kano nim toto,luma-tu kano toto-ne,takanototoniluma
+269,fila ta vek luma kano na toto,ta zo luma kano sha toto fila,elluma kano nim toto fila,luma-tu-ra kano toto-ne fila,takanototonilumarufila
+270,sena ta tun luma kano na toto,ta ki luma kano sha toto sena,otluma kano nim toto sena,luma-tu-si kano toto-ne sena,takanototonilumasesena
+271,ta luma mira,ta luma mira,tiluma mira,luma-tu mira,tamiraluma
+272,fila ta vek luma mira,ta zo luma mira fila,elluma mira fila,luma-tu-ra mira fila,tamiralumarufila
+273,sena ta tun luma mira,ta ki luma mira sena,otluma mira sena,luma-tu-si mira sena,tamiralumasesena
+274,ta luma mira nul,ta luma enu mira,tiluma miraai,luma-tu mira-min,tamiraitluma
+275,fila ta vek luma mira nul,ta zo luma enu mira fila,elluma miraai fila,luma-tu-ra mira-min fila,tamiraitlumarufila
+276,sena ta tun luma mira nul,ta ki luma enu mira sena,otluma miraai sena,luma-tu-si mira-min sena,tamiraitlumasesena
+277,ta luma mira na kano,ta luma mira sha kano,tiluma mira nim kano,luma-tu mira kano-ne,tamirakanoniluma
+278,fila ta vek luma mira na kano,ta zo luma mira sha kano fila,elluma mira nim kano fila,luma-tu-ra mira kano-ne fila,tamirakanonilumarufila
+279,sena ta tun luma mira na kano,ta ki luma mira sha kano sena,otluma mira nim kano sena,luma-tu-si mira kano-ne sena,tamirakanonilumasesena
+280,ta luma mira na toto,ta luma mira sha toto,tiluma mira nim toto,luma-tu mira toto-ne,tamiratotoniluma
+281,fila ta vek luma mira na toto,ta zo luma mira sha toto fila,elluma mira nim toto fila,luma-tu-ra mira toto-ne fila,tamiratotonilumarufila
+282,sena ta tun luma mira na toto,ta ki luma mira sha toto sena,otluma mira nim toto sena,luma-tu-si mira toto-ne sena,tamiratotonilumasesena
+283,ta luma mira nul na kano,ta luma enu mira sha kano,tiluma miraai nim kano,luma-tu mira-min kano-ne,tamiraitkanoniluma
+284,fila ta vek luma mira nul na kano,ta zo luma enu mira sha kano fila,elluma miraai nim kano fila,luma-tu-ra mira-min kano-ne fila,tamiraitkanonilumarufila
+285,sena ta tun luma mira nul na kano,ta ki luma enu mira sha kano sena,otluma miraai nim kano sena,luma-tu-si mira-min kano-ne sena,tamiraitkanonilumasesena
+286,ta luma mira nul na toto,ta luma enu mira sha toto,tiluma miraai nim toto,luma-tu mira-min toto-ne,tamiraittotoniluma
+287,fila ta vek luma mira nul na toto,ta zo luma enu mira sha toto fila,elluma miraai nim toto fila,luma-tu-ra mira-min toto-ne fila,tamiraittotonilumarufila
+288,sena ta tun luma mira nul na toto,ta ki luma enu mira sha toto sena,otluma miraai nim toto sena,luma-tu-si mira-min toto-ne sena,tamiraittotonilumasesena
+289,ta luma saki,ta luma saki,tiluma saki,luma-tu saki,tasakiluma
+290,fila ta vek luma saki,ta zo luma saki fila,elluma saki fila,luma-tu-ra saki fila,tasakilumarufila
+291,sena ta tun luma saki,ta ki luma saki sena,otluma saki sena,luma-tu-si saki sena,tasakilumasesena
+292,ta luma saki nul,ta luma enu saki,tiluma sakiok,luma-tu saki-min,tasakiitluma
+293,fila ta vek luma saki nul,ta zo luma enu saki fila,elluma sakiok fila,luma-tu-ra saki-min fila,tasakiitlumarufila
+294,sena ta tun luma saki nul,ta ki luma enu saki sena,otluma sakiok sena,luma-tu-si saki-min sena,tasakiitlumasesena
+295,ta luma saki na kano,ta luma saki sha kano,tiluma saki nim kano,luma-tu saki kano-ne,tasakikanoniluma
+296,fila ta vek luma saki na kano,ta zo luma saki sha kano fila,elluma saki nim kano fila,luma-tu-ra saki kano-ne fila,tasakikanonilumarufila
+297,sena ta tun luma saki na kano,ta ki luma saki sha kano sena,otluma saki nim kano sena,luma-tu-si saki kano-ne sena,tasakikanonilumasesena
+298,ta luma saki na toto,ta luma saki sha toto,tiluma saki nim toto,luma-tu saki toto-ne,tasakitotoniluma
+299,fila ta vek luma saki na toto,ta zo luma saki sha toto fila,elluma saki nim toto fila,luma-tu-ra saki toto-ne fila,tasakitotonilumarufila
+300,sena ta tun luma saki na toto,ta ki luma saki sha toto sena,otluma saki nim toto sena,luma-tu-si saki toto-ne sena,tasakitotonilumasesena
+301,ta luma saki nul na kano,ta luma enu saki sha kano,tiluma sakiok nim kano,luma-tu saki-min kano-ne,tasakiitkanoniluma
+302,fila ta vek luma saki nul na kano,ta zo luma enu saki sha kano fila,elluma sakiok nim kano fila,luma-tu-ra saki-min kano-ne fila,tasakiitkanonilumarufila
+303,sena ta tun luma saki nul na kano,ta ki luma enu saki sha kano sena,otluma sakiok nim kano sena,luma-tu-si saki-min kano-ne sena,tasakiitkanonilumasesena
+304,ta luma saki nul na toto,ta luma enu saki sha toto,tiluma sakiok nim toto,luma-tu saki-min toto-ne,tasakiittotoniluma
+305,fila ta vek luma saki nul na toto,ta zo luma enu saki sha toto fila,elluma sakiok nim toto fila,luma-tu-ra saki-min toto-ne fila,tasakiittotonilumarufila
+306,sena ta tun luma saki nul na toto,ta ki luma enu saki sha toto sena,otluma sakiok nim toto sena,luma-tu-si saki-min toto-ne sena,tasakiittotonilumasesena
+307,lo luma toto,lo luma toto,naluma toto,luma-li toto,lototoluma
+308,fila lo vek luma toto,lo zo luma toto fila,orluma toto fila,luma-li-ra toto fila,lototolumarufila
+309,sena lo tun luma toto,lo ki luma toto sena,evluma toto sena,luma-li-si toto sena,lototolumasesena
+310,lo luma toto nul,lo luma enu toto,naluma totoum,luma-li toto-min,lototoitluma
+311,fila lo vek luma toto nul,lo zo luma enu toto fila,orluma totoum fila,luma-li-ra toto-min fila,lototoitlumarufila
+312,sena lo tun luma toto nul,lo ki luma enu toto sena,evluma totoum sena,luma-li-si toto-min sena,lototoitlumasesena
+313,lo luma toto na kano,lo luma toto sha kano,naluma toto nim kano,luma-li toto kano-ne,lototokanoniluma
+314,fila lo vek luma toto na kano,lo zo luma toto sha kano fila,orluma toto nim kano fila,luma-li-ra toto kano-ne fila,lototokanonilumarufila
+315,sena lo tun luma toto na kano,lo ki luma toto sha kano sena,evluma toto nim kano sena,luma-li-si toto kano-ne sena,lototokanonilumasesena
+316,lo luma kano,lo luma kano,naluma kano,luma-li kano,lokanoluma
+317,fila lo vek luma kano,lo zo luma kano fila,orluma kano fila,luma-li-ra kano fila,lokanolumarufila
+318,sena lo tun luma kano,lo ki luma kano sena,evluma kano sena,luma-li-si kano sena,lokanolumasesena
+319,lo luma kano nul,lo luma enu kano,naluma kanoesh,luma-li kano-min,lokanoitluma
+320,fila lo vek luma kano nul,lo zo luma enu kano fila,orluma kanoesh fila,luma-li-ra kano-min fila,lokanoitlumarufila
+321,sena lo tun luma kano nul,lo ki luma enu kano sena,evluma kanoesh sena,luma-li-si kano-min sena,lokanoitlumasesena
+322,lo luma kano na toto,lo luma kano sha toto,naluma kano nim toto,luma-li kano toto-ne,lokanototoniluma
+323,fila lo vek luma kano na toto,lo zo luma kano sha toto fila,orluma kano nim toto fila,luma-li-ra kano toto-ne fila,lokanototonilumarufila
+324,sena lo tun luma kano na toto,lo ki luma kano sha toto sena,evluma kano nim toto sena,luma-li-si kano toto-ne sena,lokanototonilumasesena
+325,lo luma mira,lo luma mira,naluma mira,luma-li mira,lomiraluma
+326,fila lo vek luma mira,lo zo luma mira fila,orluma mira fila,luma-li-ra mira fila,lomiralumarufila
+327,sena lo tun luma mira,lo ki luma mira sena,evluma mira sena,luma-li-si mira sena,lomiralumasesena
+328,lo luma mira nul,lo luma enu mira,naluma miraai,luma-li mira-min,lomiraitluma
+329,fila lo vek luma mira nul,lo zo luma enu mira fila,orluma miraai fila,luma-li-ra mira-min fila,lomiraitlumarufila
+330,sena lo tun luma mira nul,lo ki luma enu mira sena,evluma miraai sena,luma-li-si mira-min sena,lomiraitlumasesena
+331,lo luma mira na kano,lo luma mira sha kano,naluma mira nim kano,luma-li mira kano-ne,lomirakanoniluma
+332,fila lo vek luma mira na kano,lo zo luma mira sha kano fila,orluma mira nim kano fila,luma-li-ra mira kano-ne fila,lomirakanonilumarufila
+333,sena lo tun luma mira na kano,lo ki luma mira sha kano sena,evluma mira nim kano sena,luma-li-si mira kano-ne sena,lomirakanonilumasesena
+334,lo luma mira na toto,lo luma mira sha toto,naluma mira nim toto,luma-li mira toto-ne,lomiratotoniluma
+335,fila lo vek luma mira na toto,lo zo luma mira sha toto fila,orluma mira nim toto fila,luma-li-ra mira toto-ne fila,lomiratotonilumarufila
+336,sena lo tun luma mira na toto,lo ki luma mira sha toto sena,evluma mira nim toto sena,luma-li-si mira toto-ne sena,lomiratotonilumasesena
+337,lo luma mira nul na kano,lo luma enu mira sha kano,naluma miraai nim kano,luma-li mira-min kano-ne,lomiraitkanoniluma
+338,fila lo vek luma mira nul na kano,lo zo luma enu mira sha kano fila,orluma miraai nim kano fila,luma-li-ra mira-min kano-ne fila,lomiraitkanonilumarufila
+339,sena lo tun luma mira nul na kano,lo ki luma enu mira sha kano sena,evluma miraai nim kano sena,luma-li-si mira-min kano-ne sena,lomiraitkanonilumasesena
+340,lo luma mira nul na toto,lo luma enu mira sha toto,naluma miraai nim toto,luma-li mira-min toto-ne,lomiraittotoniluma
+341,fila lo vek luma mira nul na toto,lo zo luma enu mira sha toto fila,orluma miraai nim toto fila,luma-li-ra mira-min toto-ne fila,lomiraittotonilumarufila
+342,sena lo tun luma mira nul na toto,lo ki luma enu mira sha toto sena,evluma miraai nim toto sena,luma-li-si mira-min toto-ne sena,lomiraittotonilumasesena
+343,lo luma saki,lo luma saki,naluma saki,luma-li saki,losakiluma
+344,fila lo vek luma saki,lo zo luma saki fila,orluma saki fila,luma-li-ra saki fila,losakilumarufila
+345,sena lo tun luma saki,lo ki luma saki sena,evluma saki sena,luma-li-si saki sena,losakilumasesena
+346,lo luma saki nul,lo luma enu saki,naluma sakiok,luma-li saki-min,losakiitluma
+347,fila lo vek luma saki nul,lo zo luma enu saki fila,orluma sakiok fila,luma-li-ra saki-min fila,losakiitlumarufila
+348,sena lo tun luma saki nul,lo ki luma enu saki sena,evluma sakiok sena,luma-li-si saki-min sena,losakiitlumasesena
+349,lo luma saki na kano,lo luma saki sha kano,naluma saki nim kano,luma-li saki kano-ne,losakikanoniluma
+350,fila lo vek luma saki na kano,lo zo luma saki sha kano fila,orluma saki nim kano fila,luma-li-ra saki kano-ne fila,losakikanonilumarufila
+351,sena lo tun luma saki na kano,lo ki luma saki sha kano sena,evluma saki nim kano sena,luma-li-si saki kano-ne sena,losakikanonilumasesena
+352,lo luma saki na toto,lo luma saki sha toto,naluma saki nim toto,luma-li saki toto-ne,losakitotoniluma
+353,fila lo vek luma saki na toto,lo zo luma saki sha toto fila,orluma saki nim toto fila,luma-li-ra saki toto-ne fila,losakitotonilumarufila
+354,sena lo tun luma saki na toto,lo ki luma saki sha toto sena,evluma saki nim toto sena,luma-li-si saki toto-ne sena,losakitotonilumasesena
+355,lo luma saki nul na kano,lo luma enu saki sha kano,naluma sakiok nim kano,luma-li saki-min kano-ne,losakiitkanoniluma
+356,fila lo vek luma saki nul na kano,lo zo luma enu saki sha kano fila,orluma sakiok nim kano fila,luma-li-ra saki-min kano-ne fila,losakiitkanonilumarufila
+357,sena lo tun luma saki nul na kano,lo ki luma enu saki sha kano sena,evluma sakiok nim kano sena,luma-li-si saki-min kano-ne sena,losakiitkanonilumasesena
+358,lo luma saki nul na toto,lo luma enu saki sha toto,naluma sakiok nim toto,luma-li saki-min toto-ne,losakiittotoniluma
+359,fila lo vek luma saki nul na toto,lo zo luma enu saki sha toto fila,orluma sakiok nim toto fila,luma-li-ra saki-min toto-ne fila,losakiittotonilumarufila
+360,sena lo tun luma saki nul na toto,lo ki luma enu saki sha toto sena,evluma sakiok nim toto sena,luma-li-si saki-min toto-ne sena,losakiittotonilumasesena
+361,ma ge sima,ma ge sima,ma mege sima,ma sima,masimama
+362,ma ge po sima,ma ge po sima,ma mege posima,ma po-sima,maposimama
+363,ta ge sima,ta ge sima,ta tige sima,ta sima,tasimata
+364,ta ge po sima,ta ge po sima,ta tige posima,ta po-sima,taposimata
+365,lo ge sima,lo ge sima,lo nage sima,lo sima,losimalo
+366,lo ge po sima,lo ge po sima,lo nage posima,lo po-sima,loposimalo
+367,toto ge kiwa,toto ge kiwa,toto nage kiwa,toto kiwa,totokiwalo
+368,toto nul ge kiwa,enu toto ge kiwa,totoum nage kiwa,toto-min kiwa,totoitkiwalo
+369,toto ge po kiwa,toto ge po kiwa,toto nage pokiwa,toto po-kiwa,totopokiwalo
+370,toto ge pika,toto ge pika,toto nage pika,toto pika,totopikalo
+371,toto nul ge pika,enu toto ge pika,totoum nage pika,toto-min pika,totoitpikalo
+372,toto ge po pika,toto ge po pika,toto nage popika,toto po-pika,totopopikalo
+373,kano ge kiwa,kano ge kiwa,kano nage kiwa,kano kiwa,kanokiwalo
+374,kano nul ge kiwa,enu kano ge kiwa,kanoesh nage kiwa,kano-min kiwa,kanoitkiwalo
+375,kano ge po kiwa,kano ge po kiwa,kano nage pokiwa,kano po-kiwa,kanopokiwalo
+376,kano ge pika,kano ge pika,kano nage pika,kano pika,kanopikalo
+377,kano nul ge pika,enu kano ge pika,kanoesh nage pika,kano-min pika,kanoitpikalo
+378,kano ge po pika,kano ge po pika,kano nage popika,kano po-pika,kanopopikalo
+379,mira ge kiwa,mira ge kiwa,mira nage kiwa,mira kiwa,mirakiwalo
+380,mira nul ge kiwa,enu mira ge kiwa,miraai nage kiwa,mira-min kiwa,miraitkiwalo
+381,mira ge po kiwa,mira ge po kiwa,mira nage pokiwa,mira po-kiwa,mirapokiwalo
+382,mira ge pika,mira ge pika,mira nage pika,mira pika,mirapikalo
+383,mira nul ge pika,enu mira ge pika,miraai nage pika,mira-min pika,miraitpikalo
+384,mira ge po pika,mira ge po pika,mira nage popika,mira po-pika,mirapopikalo
+385,saki ge kiwa,saki ge kiwa,saki nage kiwa,saki kiwa,sakikiwalo
+386,saki nul ge kiwa,enu saki ge kiwa,sakiok nage kiwa,saki-min kiwa,sakiitkiwalo
+387,saki ge po kiwa,saki ge po kiwa,saki nage pokiwa,saki po-kiwa,sakipokiwalo
+388,saki ge pika,saki ge pika,saki nage pika,saki pika,sakipikalo
+389,saki nul ge pika,enu saki ge pika,sakiok nage pika,saki-min pika,sakiitpikalo
+390,saki ge po pika,saki ge po pika,saki nage popika,saki po-pika,sakipopikalo
+391,ma naku ka ma ge sima,ma naku ka ma ge sima,menaku ka ma mege sima,naku-ka ka ma sima,manakukamasimama
+392,ta naku ka ta ge sima,ta naku ka ta ge sima,tinaku ka ta tige sima,naku-tu ka ta sima,tanakukatasimata
+393,lo naku ka lo ge sima,lo naku ka lo ge sima,nanaku ka lo nage sima,naku-li ka lo sima,lonakukalosimalo
